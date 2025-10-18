@@ -1,0 +1,355 @@
+[
+  {
+    "id": "1",
+    "objectives": [
+      "Promote better understanding of the cost drivers for IT services.",
+      "Enable business units to fund directly the provision of new IT services that might not otherwise have occurred because of a limited IT budget.",
+      "Motivate managers across the organization to make sound economic decisions – for example, by subsidizing newer systems and imposing additional charges for the use of legacy systems.",
+      "Encourage users to avoid expensive IT activities when slightly less convenient but far cheaper alternatives are available"
+    ]
+  },
+  {
+    "id": "2",
+    "objectives": [
+      "Break down the IT strategic paln into identifiable deliverables and required resources to achieve the medium- and long-term strategic objectives for the IT function.",
+      "Build a robust process for allocating or reserving resources for IT programmes and operations in persuit of strategic goals and objectives.",
+      "Generate ownership and understanding among stakeholders of the critical success factors and the ways to monitor progress, so that the success of the IT business plan can be measured.",
+      "Improve confidence that the IT function, through robust planning, can effectively deliver its goals and objectives within the specified planning timeframe.",
+      "Forecast the resources required to achieve the IT function’s goals and objectives.",
+      "Outline the financial and non-financial constraints within which the IT function operates.",
+      "Focus and direct the IT effort by analysing actual against planned performance."
+    ]
+  },
+  {
+    "id": "3",
+    "objectives": [
+      "Enable the organization to be more capable of change.",
+      "Drive a holistic approach to process improvement using a cross-functional and organization-wide perspective.",
+      "Correct and improve complex, people-intensive processes before (potentially) automating them.",
+      "Support a better understanding of processes and their objectives, which in thirn leads to a more reliable and efficient execution of these processes.",
+      "Provide graphical representations of processes to facilitate more effective discussion and collaboration between performers and managers.",
+      "Make the strategic objectives of the organization more explicit and visible (for example, reliability and efficiency, product or service quality, business agility, and so on)."
+    ]
+  },
+  {
+    "id": "4",
+    "objectives": [
+      "Increase knowledge about the IT resource capacity in order to predict bandwidth constraints.",
+      "Scenario-model the impact of business strategies and forecasts on IT resources.",
+      "Inform management of IT strategies – for example, about over- or under- capacity utilization, or about reassigning underutilized resources."
+    ]
+  },
+  {
+    "id": "5",
+    "objectives": [
+      "Strive for equilibrium between the demand for and the supply capacity of IT services.",
+      "Arrive at an understanding of the total or aggregate demand of IT services, and meet this with a supply capacity that is fit for purpose and cost-effective.",
+      "Forecast the impact of demand for IT services on the scalability of the supply pipeline.",
+      "Maintain a balanced IT services portfolio so that current requirements for IT can be managed, and expected future requirements can be provided for.",
+      "Understand how emerging technologies can replace or substitute current technologies, and open up new supply options."
+    ]
+  },
+  {
+    "id": "6",
+    "objectives": [
+      "Improve the quality of information available at all levels across the organization to support improved decision-making and business insights.",
+      "Improve the efficiency of business processes by making data and information available that is fit for purpose.",
+      "Provide flexible, dynamic, and centralized data platforms that enable stakeholders to access, interpret, and manipulate data as appropriate to their roles.",
+      "Enable the analysis of data and information to improve the identification and exploitation of new business opportunities by the provision of an appropriate linked data platform.",
+      "Safely and efficiently manage data and information throughout their life cycles."
+    ]
+  },
+  {
+    "id": "7",
+    "objectives": [
+      "Enable the organization to meet its goals of minimizing its environmental impact by:a) Developing the IT capabilities to minimize the impact of computing activities on the environment – for example, sourcing/designing, operating, and disposing of the computing infrastructure efficiently and effectively with minimal or no impact on the environment.      b) Enabling hi-tech.low-carbon business operations – for example, redesigning business operations using environmentally sensitive IT solutions.",
+      "Enable the organization to comply with environmental regulations.",
+      "Enhance its brand reputation by minimizing the organization’s environmental impact.",
+      "Demonstrate leadership in information technology practices that have environmental benefits (planet), social benefits (people), and financial benefits (profit)."
+    ]
+  },
+  {
+    "id": "8",
+    "objectives": [
+      "Increase innovation throughput from the IT function by fostering a pioneering culture informed by approaches, methods, and tools for innovative thinking and problem solving.",
+      "Incentivize collaboration with other business units to identify novel uses of IT to support business operations, products, and services.",
+      "Improve accountability for innovation management by measuring business value and other meaningful metrics.",
+      "Promote informed risk taking – for example, by:      a) Harvesting key learnings from unsuccessful innovation initiatives using non-accusatory approaches.      b) Supporting innovative performance of teams and individual employees.      c) Providing more control over how employees approach solving business challenges."
+    ]
+  },
+  {
+    "id": "9",
+    "objectives": [
+      "Establish the IT leadership competencies required to drive organizational progress and win stakeholder support.",
+      "Enhance the business orientation and engagement of IT leaders.",
+      "Establish IT governance as a central component of effective corporate governance.",
+      "Improve confidence in, and the agility and transparency of IT decision-making.",
+      "Establish appropriate IT accountability mechanisms.",
+      "Establish oversight structures to support compliance with ethical, legislative, and/or regulatory obligations.",
+      "Provide broad oversight on the performance of IT in the organization."
+    ]
+  },
+  {
+    "id": "10",
+    "objectives": [
+      "Promote effective decision-making and follow-on action by removing organizational bureaucracy and structural inefficiencies.",
+      "Ensure that the organization design of the IT function is appropriate to the wider organization that it serves.",
+      "Promote IT employees’ acceptance of organizational change.",
+      "Clarify reporting lines, roles, responsibilities, and accountabilities.",
+      "Organize the IT function so that it can develop and leverage core IT capabilities."
+    ]
+  },
+  {
+    "id": "11",
+    "objectives": [
+      "Identify and assess the IT-related risks that present vulnerabilities to the business, determine appropriate risk handling strategies, and monitor their effectiveness.",
+      "Manage the exposure to IT-related risks such as those related to IT security, IT sabotage, data protection, information privacy, product and project life cycles, and IT investment and protect the business from the impact of risk incidents.NOTE: For detailed technical analysis and technical mitigation actions pertaining to information security-related risks, see Information Security Management (ISM).",
+      "Increase compliance with external regulations and ethics policies relating to the deployment and use of technology.",
+      "Increase transparency around how IT-related risks could affect business objectives and decisions.",
+      "Contribute to improving the organization’s reputation as a trusted supply chain business partner."
+    ]
+  },
+  {
+    "id": "12",
+    "objectives": [
+      "Provide a quantified view of the end-to-end performance of IT services – that is, define and measure the relationship between IT infrastructure and services, and the business processes and services enabled by IT.",
+      "Map performance data from discrete IT systems (including networks, finance, voice, data, storage, processing speeds, data centres, and applications) to performance data from business processes and services, to highlight business value-at-risk, gain insights into ways of optimizing IT infrastructure and service configurations, and prioritize future investment.",
+      "Establish proactive approaches to resolving IT infrastructure and service quality problems by maintaining profiles of normal infrastructure operational chacteristics, and automatically detecting deviations from norms.",
+      "Support improved decision-making on the performance of IT-services at all levels of the organization – that is:      a) Inform operational decision-making relateing to service delivery by providing insight into matters such as performance, capacity, availability, cost, and use.      b) Inform strategic decision-making by providing insight into matters such as profiling of user populations, understanding the business impact of change, and contingency planning."
+    ]
+  },
+  {
+    "id": "13",
+    "objectives": [
+      "Establish a common approach to selecting IT suppliers for their operational contribution and potential strategic impact, instead of awarding contracts on or mainly on the basis of lowest bid price.",
+      "Assess the value and relevance of current and potential sourcing opportunities and relationships according to long-term goals and overall business and supply management objectives.",
+      "Achieve both cost reduction and improvement in IT supplier performance.",
+      "Ensure continuity of supply if a supplier’s operations are unexpectedly disrupted or when switching suppliers.",
+      "Leverage good practice and innovations from the supply base to support business innovation.",
+      "Increase organizational effectiveness by simplifying, automating, and integrating sourcing processes across the organization."
+    ]
+  },
+  {
+    "id": "14",
+    "objectives": [
+      "Outline key strategic issues and options for how technology can support and influence the business strategy.",
+      "Clarify the purpose and goals of IT activities, thus enabling more consistent decision-making.",
+      "Align the IT function and other business units on the strategic value of technology to amplify the creation of business value.",
+      "Translate strategy and decisions into a set of programmes calculated to deliver desired objectives.",
+      "Clearly communicate strategic goals and targets to all stakeholders.",
+      "Promote more effective and efficient technology deployments."
+    ]
+  },
+  {
+    "id": "15",
+    "objectives": [
+      "Make budget allocation decisions in a deliberative, participatory, and transparent manner.",
+      "Achieve predictable IT financial performance by establishing responsible fiscal management and clear lines of accountability.",
+      "Maintain the flexability to respond to short-term challenges and opportunities by allowing managers to reallocate IT funds across budget categories and projects at their discretion.",
+      "Make sure that expenditure matches the allocated budget. Identify and plan for any likely overrun in advance."
+    ]
+  },
+  {
+    "id": "16",
+    "objectives": [
+      "Improve visibility of actual IT expenditure over extened time periods.",
+      "Better inform decisions regarding future funding levels and allocations.",
+      "Improve the quality of future budgets, and identify favourable budget trends and areas of concern.",
+      "Increase confidence that budget allocations can avoid unplanned adjustements midway through a financial cycle."
+    ]
+  },
+  {
+    "id": "17",
+    "objectives": [
+      "Set appropriate funding levels for IT to maximize development of the business capabilities that drive strategic or operational advantage.",
+      "Consider alternative sources for technology funding, and understand their assoicated costs and expected benefits.",
+      "Ensure transparent practices and objective governance when agreeing options for funding and financing.",
+      "Benchmark IT funding against that of peer organizations to inform funding and financing decisions."
+    ]
+  },
+  {
+    "id": "18",
+    "objectives": [
+      "Increase the likelihood that organizational resources are applied in accordance with the organization’s strategy.",
+      "Improve consistency and transparency in programme and project selection, based on agreed evaluation and prioritization criteria.",
+      "Prioritize technology-related programmes and projects that have the greatest potential for value delivery in alignment with the organization’s strategic direction, while managing potential downsides.",
+      "Dynamically reprioritize the portfolio based on strategy change – for example, mergers, acquisitions, and business environment changes.",
+      "Provide insight into financial, people, and technical resource requirements for execution of the IT investment portfolio.",
+      "Improve the perception of IT as a catalyst or enabler of the business, by delivering positive returns on the IT investment portfolio."
+    ]
+  },
+  {
+    "id": "19",
+    "objectives": [
+      "Improve the organization’s ability to identify strengths and weaknesses in key IT capabilities.",
+      "Establish a consistent approach to assessing IT capabilities and selecting areas for IT capability improvement that are aligned with the organization’s strategic direction.",
+      "Identify over-investment in IT capabilities that are of lower strategic importance.",
+      "Establish a credible and achievable approach to managing a continual improvement programme, which can be used to verify improvements over time."
+    ]
+  },
+  {
+    "id": "20",
+    "objectives": [
+      "Enable the IT function to align its strategy with the needs of the business strategy.",
+      "Define the technical standards and operating principles for guiding business solution design and technology choices.",
+      "Ensure consistency and integration across process, information, application, and infrastructure for optimal business performance.",
+      "Reduce business complexity through the reuse and sharing of functional components, and through standardization of technologies and infrastructure.",
+      "Improve business processes and enhance productivity across the organization by unifying and integrating data linkages.",
+      "Promote sound architecture management practices and governance.",
+      "Minimize and manage business, IT, and project-level risks through more informed portfolio and solutions planning."
+    ]
+  },
+  {
+    "id": "21",
+    "objectives": [
+      "Facilitate information security approaches, policies, and controls, both during normal business operations and in the event of significant information security incidents, to safeguard the organization’s information resource’s:      a) Integrity(that is, its accuracy and completeness).      b) Confidentiality (that is, its protection from theft or unauthorized disclosure).      c) Accountability (that is, its traceability and authenticity.      d) Usability (that is, its fitness for purpose).      e) Availability (that is, its accessibility and access controls).",
+      "Ensure that all information security incidents and suspected security weaknesses are reported through suitable channels, so that they are appropriately investigated and dealt with.",
+      "Help employees maintain appropriate levels of awareness and skills to minimize the occurrence and severity of information security incidents.",
+      "Provide assurance to stakeholders and regulators that information security approaches, policies, and controls function as intended – that is, they help discover, prevent, and minimize threats and breaches.",
+      "Ensure key stakeholders are accepting of the residual risk remaining after the information security technical analysis and mitigation actions for identified security threats have been taken."
+    ]
+  },
+  {
+    "id": "22",
+    "objectives": [
+      "Get the right knowledge, to the right people, at the right time, and thereby improve the quality of decision-making.",
+      "Promote access to formalized documented knowledge and also to tacit, contextual knowledge by facilitating collaboration and communication between employees and where appropriate, between employees and external experts.",
+      "Scan the business environment to identify knowledge assets for relevant organizational.",
+      "Organize and index knowledge assets so that they can be easily found and accessed.",
+      "Measure the use and impact of knowledge assets for relevant organizational activites, including, for example, research and development, operations, and training."
+    ]
+  },
+  {
+    "id": "23",
+    "objectives": [
+      "Establish an effective recruitment process that attracts the best qualified candidates.",
+      "Identify, manage, and retain talented and high-potential employees.",
+      "Incentivize employee productivity, satisfaction, and motivation, and reduce turnover rates.",
+      "Link employee compensation and incentives to performance goals.",
+      "Promote career development by providing mentoring, training, and education.",
+      "Proactively plan for employee succession to provide continuity in key organizational positions."
+    ]
+  },
+  {
+    "id": "24",
+    "objectives": [
+      "Increase predictability in programme and project outcomes with respect to schedule cost, and quality parameters.",
+      "Improve consitency in handling programme and project changes and risks.",
+      "Improve ability to drive strategic change and stablish new capabilities in the organization, through effective programme and project delivery.",
+      "Improve business value realization from programmes and projects, with effective utilization of capital investment."
+    ]
+  },
+  {
+    "id": "25",
+    "objectives": [
+      "Increase the opportunities for innovation and collaboration by fostering openness and knowledge-sharing between the IT function and other business units.",
+      "Use collaborative engagement approaches to guide business units through the technology element of projects.",
+      "Overcome internal organizational politics by championing mutual interests.",
+      "Earn the IT function a trusted-adviser and hnest-broker status with other business units."
+    ]
+  },
+  {
+    "id": "26",
+    "objectives": [
+      "Identify the promising technologies and usage models that are likely to deliver value.",
+      "Limit investments in potentially unpromising technologies through phased investment decisions.",
+      "Increase organizational awareness of the accepted approach for identfying and developing new technologies and usage models that are likely to deliver business value.",
+      "Manage the pipeline of new technologies and usage models so that business value returns are optimized."
+    ]
+  },
+  {
+    "id": "27",
+    "objectives": [
+      "Implement a transparent process for montioring the services that the IT function provides to its customers in the organization and address any problems as soon as they appear.",
+      "Improve IT helpdesk productivity by quickly resolving any requests from customers, preferably during the initial contact with the customer.",
+      "Where IT services do fail, restor them as quickly as possible, and plan proactively for any necessary IT service disruptions.",
+      "Where IT services do fail, restore them as quickly as possible, and plan proactively for any necessary IT service disruptiions.",
+      "Support business change while maintaining a stable IT service environment.",
+      "Promote active stakeholder management of users and customers.",
+      "Maintain the sercices portfolio so that it is fit for purpose and aligned to the organization’s objectives."
+    ]
+  },
+  {
+    "id": "28",
+    "objectives": [
+      "Manage business requirements, contain development costs, and reduce the time to market for IT solutions.",
+      "Adopt flexible solutions development and delivery methodologies based on the project context – for example, waterfall, agile, or a hybrid of the two.",
+      "Ensure that IT solutions follow agreed development methodologies regardless of where they are developed within the organization – within the IT function or within other business units.",
+      "Employ built-in assurance mechanisms that enhance the quality of IT solutions to better meet business requirements and service standards.",
+      "Design and develop stable and flexible IT solutions that can easily be maintained and updated to meet future demands of the organization."
+    ]
+  },
+  {
+    "id": "29",
+    "objectives": [
+      "Translate the sourcing strategy into supplier performance objectives and relationship management activities.",
+      "Strike an appropriate balance between cost efficiency and supply/service quality.",
+      "Foster collaboration, trust, empathy, open communication, and a desire for mutual benefit to encourage co-innovation with preferred suppliers.",
+      "Ensure the integrity of supplier performance monitoring.",
+      "Identify constraints and scope for manoevre when (re)negotiating supplier contracts.",
+      "Use suppliers’ expertise and innovation to support and inform the IT services’ development roadmap.",
+      "Engage proactively with suppliers to resolve incidents, problems, or poor performance.",
+      "Manage supply risks across the portfolio of suppliers."
+    ]
+  },
+  {
+    "id": "30",
+    "objectives": [
+      "Provide technical infrastructure, stability, availability, and reliability through effective operation, maintenance, and retirement of infrastructure components.",
+      "Provide technical infrastructure adaptability and flexability through forward-planning when creating, acquiring, improving, and disposing of infrastructure components.",
+      "Provide seamless interoperability across different kinds of infrastructure components.",
+      "Protect technical infrastrucutre and the data that flows through it.",
+      "Make provision for effective infrastructure utilization."
+    ]
+  },
+  {
+    "id": "31",
+    "objectives": [
+      "Shift from technology-centric to user-centric design of IT services and solutions; in other words, make the transition from designing within the engineering boundaries or limitations of the technolofy to designing IT services and solutions around the needs of those who will use them.",
+      "Place the user’s ecperience of the IT service or solution (rather than the service or solution itself) at the centre of design and development – for example, a user’s experience of email may rely on computer ardware performance, netwrok connectivity, email clients usability, user proficiency, purpose of the task, and the environment/context of access.",
+      "Consider user’s experiences across their interactions with IT services and solutions – including their knwledge about the range of services available. Their experiences of taking  delivery of services and using services, the training and support they require or receive, how upgrades are handled, and how redundant services are removed.",
+      "Adopt a user experience design approach that reduces development time and cost, and produced IT services and solutions that satisfy both business and user objectives."
+    ]
+  },
+  {
+    "id": "32",
+    "objectives": [
+      "Enhance the organization’s efficiency and productivity by ensuring users receive the training they need to use business applications and other IT-supported services.",
+      "Reduce disruption to the organization’s operations due to retraining or upskilling when business applications and other IT-supported services are deployed or upgraded.",
+      "Improve user satisfactions levels with business applications and other IT-supported services.",
+      "Reduce user support costs in, for example, helpdesk and related areas."
+    ]
+  },
+  {
+    "id": "33",
+    "objectives": [
+      "Increase organizational awareness, undeerstanding, and commitement to the importance of creating a value mind-set/culture and sustaining business value from IT-enabled change.",
+      "Promote the message that benefits do not come from technology in and of itself, but rather from the change that technology shapes and enables – change that must be led and managed.",
+      "Focus management on outcomes of IT-enabled change initiatives and measurable benefits rather than on activities.",
+      "Create management approaches to assess potential benefits and likely costs in a transparent and inclusive manner, with a focus on continual learning and improvement.",
+      "Define transparent links between IT services and solutions (that is, what is produced or delivered) and their business impact (that is, their expected contribution to business objectives.",
+      "Manage organizational interactions across complementary actions, such as process redesign, training, cultural/behavioural change, and incentive structures, to deliver and sustain the business benefits enabled by IT.",
+      "Create a common language for describing business benefits arising from technology – for example, achievement of a business result (or end-outcome) that a stakeholder perceives to be of value (which may not necessarily be of financial value).",
+      "Broaden employees’ focus beyond efficient implementation and operation of technology to include the effective delivery of business benefits from technology implementation and operation across the full life cycle of the investment."
+    ]
+  },
+  {
+    "id": "34",
+    "objectives": [
+      "Monitor ongoing risks, progress deviations, and  other factors that might impact on the portfolio’s success.",
+      "Improve consistency in the evaluation of the portfolio’s current status.",
+      "Support timely delivery of programmes within the portfolio through effective monitoring of resource allocation and use.",
+      "Improve confidence that the programmes in the portofolio remain aligned with the organization’s overall strategy and business objectives.",
+      "Amplify business value realization across related programmes."
+    ]
+  },
+  {
+    "id": "35",
+    "objectives": [
+      "Establish a standardized method of estimating, tracking, comparing, and managing the life cycle costs of IT assets and IT-enabled business services.",
+      "Improve IT investment decisions by systematically comaring the incremental costs (direct and indirect) of competing systems to the full costs of existing systems.",
+      "Raise awareness in the organization of the full costs of IT, and promote strategic budgeting by collecting and disseminating data on the ful life cycle costs of technology.",
+      "Improve the accuracy of total cost of ownership forecasts based on lessons learned from comparing forecasted and actual costs incurred."
+    ]
+  }
+]

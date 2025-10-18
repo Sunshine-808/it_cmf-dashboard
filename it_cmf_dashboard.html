@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>CIO Dashboard Graph</title>
+  
+  <!-- D3.js -->
+  <script src="https://d3js.org/d3.v7.min.js"></script>
+  
+  <!-- Fonts & Styles -->
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="styles.css">
+
+  <style>
+    /* keep emergency fallback styles for nodes */
+    circle.node {
+      stroke: #fff;
+      stroke-width: 1.5px;
+      opacity: 0.4;
+      transition: all 0.2s ease;
+    }
+
+    line.link {
+      stroke: #aaa;
+      stroke-opacity: 0.2;
+      transition: all 0.2s ease;
+    }
+
+    text.label {
+      fill: #333;
+      font-size: 10px;
+      opacity: 1;
+      transition: opacity 0.2s ease;
+    }
+
+    circle.highlighted {
+      stroke: gold;
+      stroke-width: 3px;
+      opacity: 1;
+    }
+
+    line.highlighted {
+      stroke: gold;
+      stroke-opacity: 0.9;
+    }
+
+    text.highlighted {
+      font-weight: bold;
+      opacity: 1;
+    }
+
+    .faded {
+      opacity: 0.2;
+    }
+  </style>
+</head>
+
+<body>
+  <div class="main-grid">
+    
+    <!-- LEFT COLUMN: Graph + Overlay Search -->
+    <div id="graph">
+      <div id="searchContainer">
+        <input id="nodeSearch" type="text" placeholder="Search for a node..." />
+        <button id="searchBtn">Search</button>
+      </div>
+    </div>
+
+    <!-- MIDDLE COLUMN: Node + Objectives -->
+    <div id="detailsPanel">
+      <div id="nodeDetails">
+        <h2>Node Details</h2>
+        <p>Click a node to view details.</p>
+      </div>   
+          
+      <div id="summaryDetails">
+        <h2>Objectives</h2>
+        <p>Click a node to view objectives.</p>
+      </div>
+    </div>
+
+    <!-- RIGHT COLUMN: CBB + Artifacts -->
+    <div id="infoPanel">
+      <div id="cbbDetails">
+        <h2>CBB Details</h2>
+        <p>Click a node to view details.</p>
+      </div>
+      <div id="extraPanel">
+        <h2>Artifacts</h2>
+        <p>Click a node to view artifacts.</p>
+      </div>
+    </div>
+  </div>
+
+  <!-- JS -->
+  <script src="main.js"></script>
+</body>
+</html>
+

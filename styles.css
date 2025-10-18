@@ -1,0 +1,204 @@
+    body {
+      font-family: "Inter", sans-serif;
+      margin: 0;
+      background: #f7f7f9;
+      height: 100vh;
+    }
+
+    .main-grid {
+      display: grid;
+      grid-template-columns: 2fr 1fr 1fr;
+      grid-template-rows: 1fr;
+      gap: 8px;
+      height: 100%;
+      padding: 8px;
+      box-sizing: border-box;
+    }
+
+    /* Left column: Graph */
+    #graph {
+      background: #fff;
+      border-radius: 12px;
+      box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+      position: relative;
+      overflow: hidden;
+      padding: 8px;
+    }
+
+    /* Middle column: two stacked panels */
+    #detailsPanel {
+      display: grid;
+      grid-template-rows: 2fr 1fr;
+      gap: 8px;
+      overflow-y: auto;
+    }
+
+    #nodeDetails,
+    #summaryDetails {
+      background: #fff;
+      border-radius: 12px;
+      box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+      padding: 16px;
+      overflow-y: auto;
+    }
+
+
+    /* Right column: two stacked panels */
+    #infoPanel {
+      display: grid;
+      grid-template-rows: 2fr 1fr;
+      gap: 8px;
+      overflow-y: auto;  
+    }
+
+    #cbbDetails, #extraPanel {
+      background: #fff;
+      border-radius: 12px;
+      box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+      padding: 16px;
+      overflow-y: auto;
+    }
+
+/* Match all h2 titles in the main dashboard panels */
+#nodeDetails > h2,
+#summaryDetails > h2,
+#cbbDetails > h2,
+#extraPanel > h2 {
+  color: #003366; /* match .node-data h2 */
+  font-size: 1.2em;
+  margin-top: 0;
+  margin-bottom: 10px;
+  font-weight: 600;
+}
+
+
+    .node-data {
+      background-color: #f9fbff; /* slightly lighter than others for contrast */
+      border-radius: 10px;
+      padding: 12px 14px;
+      border: 1px solid #cce0ff;
+      box-shadow: 0 1px 2px rgba(0, 0, 0, 0.05);
+      line-height: 1.4;
+    }
+
+    .node-data h2 {
+      margin-top: 0;
+      margin-bottom: 10px;
+      color: #003366;
+      font-size: 1.2em;
+    }
+
+    .node-data p {
+      margin: 6px 0;
+    }
+
+    .node-data strong {
+      color: #004c99;
+    }
+
+
+    .cbb-item {
+      background-color: #f9fbff; /* slightly lighter than others for contrast */
+      border-radius: 10px;
+      padding: 12px 14px;
+      border: 1px solid #cce0ff;
+      box-shadow: 0 1px 2px rgba(0, 0, 0, 0.05);
+      line-height: 1.4;
+      margin-top 0;
+      margin-bottom: 10px;
+    }
+
+.cbb-item strong {
+  color: #004c99; /* same deep blue as headings */
+  font-weight: 600;
+  font-size: 1.05em;
+  display: block;
+  margin-bottom: 4px;
+}
+
+.cbb-item p {
+  color: #444;
+  line-height: 1.5;
+  margin: 4px 0 0 0; /* a little space below the title */
+}
+
+
+
+    .obj-item {
+      background-color: #f9fbff; /* slightly lighter than others for contrast */
+      border-radius: 10px;
+      padding: 12px 14px;
+      border: 1px solid #cce0ff;
+      box-shadow: 0 1px 2px rgba(0, 0, 0, 0.05);
+      line-height: 1.4;
+      margin-top 0;
+      margin-bottom: 10px;
+    }
+
+    .artifact-item {
+      background-color: #f9fbff; /* slightly lighter than others for contrast */
+      border-radius: 10px;
+      padding: 12px 14px;
+      border: 1px solid #cce0ff;
+      box-shadow: 0 1px 2px rgba(0, 0, 0, 0.05);
+      line-height: 1.4;
+      margin-top 0;
+      margin-bottom: 10px;
+    }
+
+    /* --- Hover effects for dashboard info boxes --- */
+    .cbb-item:hover,
+    .obj-item:hover,
+    .artifact-item:hover,
+    .node-data:hover {
+      background-color: #e6f0ff; /* slightly deeper blue on hover */
+      border-color: #99c2ff;
+      transform: translateY(-2px);
+      box-shadow: 0 2px 6px rgba(0, 0, 0, 0.08);
+      transition: all 0.2s ease-in-out;
+    }
+
+#search-container {
+  margin-bottom: 8px;
+  text-align: center;
+}
+
+#nodeSearch {
+  width: 80%;
+  padding: 8px 12px;
+  border-radius: 8px;
+  border: 1px solid #ccc;
+  font-size: 0.95em;
+}
+
+/* Floating search bar */
+#searchContainer {
+  position: absolute;
+  top: 12px;
+  left: 12px;
+  z-index: 10;
+  background: rgba(255, 255, 255, 0.9);
+  border-radius: 8px;
+  padding: 6px 8px;
+  box-shadow: 0 2px 6px rgba(0, 0, 0, 0.15);
+}
+
+#searchContainer input {
+  padding: 6px 8px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  width: 220px;
+}
+
+#searchContainer button {
+  padding: 6px 10px;
+  border: none;
+  background: #007bff;
+  color: white;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+#searchContainer button:hover {
+  background: #0056b3;
+}

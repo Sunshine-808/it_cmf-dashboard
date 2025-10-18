@@ -1,0 +1,352 @@
+[
+  {
+    "id": 1,
+    "name_short": "AA",
+    "name": "Accounting and Allocation (AA)",
+    "group": "Managing IT like an Business",
+    "overview": "Define and manage the policies, processes, and tools used for calculating the costs of IT services and distributing the across the organization.",
+    "goal": "The Accounting and Allocation (AA) capability aims to allocate the consuption of IT services to business units and to calculate the associated costs for chargeback/showback purposes.",
+    "definitions": "The Accounting and Allocation (AA) capability is the ability to define and manage the policies, processes, and tools used for calculating the costs of IT and distributing them across the organization. The Accounting and Allocation (AA) capability covers:1) Establishing policies for measuring the consumption of IT services by business units in the organization, and for the chargeback/showback of associatied IT costs to those units.2) Managing how the chargeback/showback of IT service consumption is allocated.3) Influencing the demand for IT services.",
+    "questions": "How transparent are IT costs allocated across the business?How integrated is the IT service accounting system with strategic and operational decision-making?"
+  },
+  {
+    "id": 2,
+    "name_short": "BP",
+    "name": "Business Planning (BP)",
+    "group": "Managing IT like an Business",
+    "overview": "Produce an approved document that provides implementable detail for the IT strategy, setting out the IT function’s tacticle objectives, the operational services to be provided, and the financial and other resources and constraints that apply in the coming planning timeframe.",
+    "goal": "The IT function Business Planning (BP) capability aims to link the IT strategy with IT operational planning. IT represents the next level in planning detail following on from defining the IT strategy, ensuring that the necessary financial and other resources are allocated for implementation.",
+    "definitions": "The Business Planning (BP) capability is the ability to produce an approved document that provides implementable detail for the IT strategy, setting out the IT function’s tactical objectives, the operational services to be provided, and the financial and other resources and constraints that apply in the coming planning period. The Business Planning (BP) capability covers:1) Allocating responsibility to specific employees for IT business planning.2) Managing appropriate financial and non-financial resources and their capacities for ongoing IT business planning activities.3) Specifying the requiremements for each activity in the IT business plan.4) Seeking the support of relevant stakeholders for the IT business plan.5) Reviewing the IT business plan against actual performance.",
+    "questions": "How are employees selected for IT business planning activities – in terms of experience, knowledge, authority, and business focus?What process is in place to develop, communicate, and review the organization’s IT business plan?"
+  },
+  {
+    "id": 3,
+    "name_short": "BPM",
+    "name": "Business Process Management (BPM)",
+    "group": "Managing IT like an Business",
+    "overview": "Identify, design, document, monitor, optimize, and assist in the execution of both existing and new organizational processes.",
+    "goal": "The Business Process Management (BPM) capability helps create an understanding of business activity flows so that they can be more readily understood and developed, and so that errors can be reduced and risks mitigated.",
+    "definitions": "The Business Process Management (BPM) capability is the ability to identify, design, document, monitor, optimize, and assist in the execution of both existing and new organizational processes. The Business Process Management (BPM) capability covers:1) Implementing process improvement initiatives and driving cultural change for business process management.2) Selecting, developing, and applying methods, governance models, technologies, skills, roles, and communication materials that support management of the organization’s processes.3) Developing and applying graphical representations of processes – for example, process architecture diagrams.4) Adopting technologies that automate and assist with the execution of business process management.",
+    "questions": "To what extent are common approaches (such as standards, methods, governance models, and technologies) applied to managing business processes across the organization?How are process improvement opportunities managed for their business value?"
+  },
+  {
+    "id": 4,
+    "name_short": "CFP",
+    "name": "Capacity Forecasting and Planning (CFP)",
+    "group": "Managing IT like an Business",
+    "overview": "Model and forecast demand for IT services, infrastructure, facilities, and people.",
+    "goal": "The Capability Forecasting and Planning (CFP) capability aims to understand what resources will be required to support IT services based on current and projected organizational demands.",
+    "definitions": "The Capacity Forecasting and Planning (CFP) capability is the ability to model and forecast demand for IT services, infrastructure, facilities, and people. The Capacity Forecasting and Planning (CFP) capability covers:1) Collecting capacity-related strategic and operational information.2) Designing and advancing the IT capacity forecasting models to demonstrate how business forecasts might impact the resources required by the IT function.3) Modelling the current and future capacity requirements across all IT-related resources – for example, services, infrastructure, facilities, and people.4) Communicating insights from capacity planning to the relevant stakeholders.",
+    "questions": "How well is capacity forecasting of IT services and resources conducted in your organization?How are IT capacity forecasts and plans produced and communicated to the relevant stakeholders?"
+  },
+  {
+    "id": 5,
+    "name_short": "DSM",
+    "name": "Demand and Supply Management (DSM)",
+    "group": "Managing IT like an Business",
+    "overview": "Manage the IT services portfolio in such a way that there is a balance between the demand for and the supply of IT services.",
+    "goal": "The Demand and Supply Management (DSM) capability aims to balance the business demand for IT services and the supply of those services.",
+    "definitions": "The Demand and Supply Management (DSM) capability is the ability to manage the IT services portfolio in such a way that there is a balance between the demand for and the supply of IT services. The Demand and Supply Management (DSM) capability covers:1) Analysing and managing the existing the future business demand for IT services.2) Analysing and managing the existing and future supply of IT services.3) Proposing responses to address gaps between the demand for and supply of IT services, for both the short term and long term.4) Fostering collaboration between IT and other business units to manage the IT services portfolio.5) Understanding trade-offs between satisfying demand and the cost of supply – for example, by using emerging technologies or by changing the nature of the demand.",
+    "questions": "What is known about the business demand for IT services?What is known about the range of services that the IT function has the capacity to supply should there be business demand for them?"
+  },
+  {
+    "id": 6,
+    "name_short": "EIM",
+    "name": "Enterprise Information Management (EIM)",
+    "group": "Managing IT like an Business",
+    "overview": "Establish effective systems for gathering, analysing, disseminating, exploiting, and disposing of data and information.",
+    "goal": "The Enterprise Information Management (EIM) capability ensures that quality data is available to support the business activities of the organization.",
+    "definitions": "The Enterprise Information Management (EIM) capability is the ability to establish effective systems for gathering, analysisng, disseminating, exploiting, and disposing of data and information. The data can be held in any medium – all forms of digital storage, film, paper, or any other recording mechanism used by the organization. The Enterprise Information Management (EIM) capability covers the strategic, operational, and security aspects of information managegement:1) Establishing an information management strategy.2) Establishing data and information governance mechanisms.3) Establishing information managmeent standards, policies, and controls.4) Performing information valuations.5) Defining and maintaining master- and metadata – for example, metadata for information security classifications and continuity management.6) Making infrastructure and storage decisions.7) Making data and information life cycles, including data and information tracking.8) Measuring how frequently information is accessed and assessing its value to the business,9) Analysing information, including exploratory and confirmative data analysis.10) Developing the skills and competences of information management and analytics practitioners.",
+    "questions": "To what extent is information management recognized as a core activity that facilitates business operations?To what extent has an evidence-based culture been established in which major decisions are supported by data-driven intelligence and analytics?"
+  },
+  {
+    "id": 7,
+    "name_short": "GIT",
+    "name": "Green IT (GIT)",
+    "group": "Managing IT like an Business",
+    "overview": "Minimizing the environmental impact of IT operations, and make the best use of technology to minimize the environmental impact of organization-wide operations.",
+    "goal": "The Green Information Technology (GIT) capability aims to manage IT operations in an environmentally sensitive manner, and to leverage IT to minimize the environmental impact of the wider business activities.",
+    "definitions": "The Green Information Technology (GIT) capability is the ability to minimize the environmental impact of IT, and to make the best use of technology to minimize environmental impact across the organization. The Green Information Technology (GIT) capability covers:1) Developing a green information technology strategy for IT and aligning it to business requirements.2) Planning how to define and meet the IT function’s goals for environmental sustainability.3) Implementing an IT governance structure that includes common policies on compliance with environmental regulation.4) Providing measurement and reporting to enable environmental sustainability across the IT life cycle and the business value chain.5) Managing the people and cultural issues associated with the adoption of environmental sustainability practices enabled through technology.6) Aligning organizational capabilities that are most important for ensuring environmentally sustainable computing.",
+    "questions": "What approach is taken by your organization to ensure there is a strategy for green information technology?How does your organization measure the impact of green information technology activities?"
+  },
+  {
+    "id": 8,
+    "name_short": "IM",
+    "name": "Innovation Management (IM)",
+    "group": "Managing IT like an Business",
+    "overview": "Identify, fund, and measure technology-driven business innovation, which can be applied within the IT function, to the organization’s operations, or to the organization’s products and services.",
+    "goal": "The Innovation Management (IM) capability helps exploit IT in new and pioneering ways to satisfy business objectives.",
+    "definitions": "The Innovation Management (IM) capability is the ability to identify, fund, and measure technology-driven business innovation, which can be:1) Applied within the IT function.2) Applied to the organization’s operations.3) Applied to the organization’s products and services.",
+    "questions": "How is technology-driven innovation supported by appropriate processes, tools, and funding?How well does the organizational culture support technology-driven innovation?"
+  },
+  {
+    "id": 9,
+    "name_short": "ITG",
+    "name": "IT Leadership and Governance (ITG)",
+    "group": "Managing IT like an Business",
+    "overview": "Galvanize employees towards a common strategic direction and value proposition, and establish, appropriate IT decision-making bodies and processes.",
+    "goal": "The IT Leadership and Governance (ITG) capability established a leadership style, and ensures that distributed IT decisions are supportive of the organization’s strategic goals and objectives.",
+    "definitions": "The IT Leadership and Governance (ITG) capability is the ability to motivate employees towards a common strategic direction and value proposition, and to establish appropriate IT decision-making bodies and processes, including mechanisms for IT escalation, accountability, and oversight. While the leadership aspect establishes the IT function’s direction, it cannot directly affect all IT decisions distributed across the various levels in the organization. The governance aspect addresses this by establishing appropriate IT decision rights, and mechnanisms for accountability and oversight. The IT Leadership and Governance (ITG) capability covers:1) Uniting the IT function around a shared IT value proposition, vision, and direction.2) Determining the effectiveness of the partnership between IT and other business units.3) Determining the effectiveness of IT leadership.4) Establishing governance/decision-making bodies and processes, including decision rights, accountabilities, and escalation paths.",
+    "questions": "To what extent does IT leadership emphasize the delivery of business value as a key objective of the IT function?To what extent are structures and processes in place to support IT decision-making?"
+  },
+  {
+    "id": 10,
+    "name_short": "ODP",
+    "name": "Organization Design and Planning (ODP)",
+    "group": "Managing IT like an Business",
+    "overview": "Manage the IT function’s internal structure and its interfaces with other business units, suppliers, and business partners.",
+    "goal": "The Organization Design and Planning (ODP) capability aims to organize the IT function by establishing lines of authority, defining roles and functions, and specifying their interrelationships, so that IT employees can collectively deliver the objectives of the IT function.",
+    "definitions": "The Organization Design and Planning (ODP) capability is the ability to manage the IT function’s internal structure and its interfaces with other business units, suppliers, and business partners. The Organization Design and Planning (ODP) capability covers:1) Defining the internal structure of the IT function, including reporting lines, span of control, roles, responsibilities, and accountabilities.2) Defining the interfaces with other parts of the business, suppliers, and business partners.3) Defining IT roles and key performance indicators (KPIs).4) Managing the process for (re)organizing and (re)structuring the IT function.5) Documenting, communicating, and gaining commitment to the organization design.6) Communicating and gaining commitment to organizational change.7) Monitoring the effectivement and efficiency of the organization design.",
+    "questions": "To what extent is the organizationdesign of the IT function appropriate to the needs of the wider organization it serves?To what extent is the IT function able to adapt to changing business needs and strategies?"
+  },
+  {
+    "id": 11,
+    "name_short": "RM",
+    "name": "Risk Management (RM)",
+    "group": "Managing IT like an Business",
+    "overview": "Assess, prioritize, handle, and monitor the exposure to and the potential impact of IT-related risks that can directly impact the business in a financial or reputational manner.",
+    "goal": "The Risk Management (RM) capability aims to protect the organization from risk exposures associated with Information Technology (IT).",
+    "definitions": "The Risk Management (RM) capability is the ability to assess, prioritize, handle, and monitor the exposure to and the potential impact of IT-related risks that can directly impact the business in a financial or reputational manner. Risks include those associated with (among others) IT security, data protection and information privacy, operations, continuity of business and recovery from declared disasters, IT investment and project delivery, and IT service contracts and suppliers. The Risk Management (RM) capability covers:1) Establishing an IT risk management programme and policies.2) Establishing risk management roles and responsibilities.3) Communicating and training in the area of risk management.4) Understanding the organization’s tolerance for IT-related risks.5) Defining risk profiles.6) Assessing and prioritizing different types of risks.7) Defining risk handling strategies for identified IT risks (accept, avoid, mitigate, or transfer).8) Monitoring IT risk exposures.9) Integrating IT risk management with wider ERM practices such as business continuity planning, disaster recovery, information security, audit and assurance.",
+    "questions": "How are risk management policies and a governance framework developed and implemented?What approaches are in place for assessing, prioritizing, handling, and mnitoring IT-related risks?"
+  },
+  {
+    "id": 12,
+    "name_short": "SAI",
+    "name": "Service Analytics and Intelligence (SAI)",
+    "group": "Managing IT like an Business",
+    "overview": "Define and quantify the relationships between IT infrastructure, IT services, and IT-enabled business processes.",
+    "goal": "The Service Analytics and Intelligence (SAI) capabilitiy aims to clarify the link between the performance of business processes and the performance of the underlying IT infrastructure and services – that is, to provide an end-to-end view of IT services.",
+    "definitions": "The Service Analytics and Intelligence (SAI) capability is the ability to define and quantify the relationships between IT infrastructure, IT services, and IT-enabled business processes. The Service Analytics and Intelligence (SAI) capability covers:1) Service Analytics:  Monitoring, modelling, and analysing service performance to:      a) Measure, sustain, and optimize the delivery of IT service for business value.      b) Provide the data that planning activities require.2) Service Intelligence: Applying insights from service analytics to:      a) Identify risks associated with IT infrastructure and services that could impact on the business.      b) Identify business risks and changes that could impact o IT infrastructure and services.      c) Identify opportunities for business growth and IT innovation.",
+    "questions": "How are usage patterns for IT services monitored and modelled?How is the impact of planned business demand for IT services and infrastructure understood?"
+  },
+  {
+    "id": 13,
+    "name_short": "SRC",
+    "name": "Sourcing (SRC)",
+    "group": "Managing IT like an Business",
+    "overview": "Evaluate, select, and integrate IT service providers according to a defined strategy and sourcing model.",
+    "goal": "The Sourcing (SRC) capability aims to streamline the strategic planning and development of the IT supply base to optimize the contribution of the supply base to the organization’s strategic objectives.",
+    "definitions": "The Sourcing (SRC) capability is the ability to evaluate, select, and integrate IT service providers according to a defined strategy and sourcing model, which could inclide service providers both inside and outside the organization. The Sourcing (SRC) capability covers:1) Defining the strategy for sourcing IT services and the high-level business cases for sourcing initiatives.2) Defining the sourcing model, including, for example, considering internal or third-party sourcing arrangements, on-shoring, near-shoring, or far-shoring, and single or multiple IT service providers.3) Developing criteria for selecting providers and processes for choosing the most advantageous provider.4) Defining apporaches for preparing, negotiating, closing, and re-evaluating contracts with IT service providers.5) Establishging a win-win culture to promote enduring and successful relationships with the supply base.6) Managing potential operational impacts with transitioning to a new provider.",
+    "questions": "To what extent does the IT sourcing strategy support overall IT and business strategies?How are internal and external IT service providers selected and governed to ensure that they deliver on required objectives?"
+  },
+  {
+    "id": 14,
+    "name_short": "SP",
+    "name": "Strategic Planning (SP)",
+    "group": "Managing IT like an Business",
+    "overview": "Formulate a long-term vision and translate it into an actionable strategic plan for the IT function.",
+    "goal": "The Strategic Planning (SP) capability aims to specify ways in which technology can enable and influence the business strategy.",
+    "definitions": "The Strategic Planning (SP) capability is the ability to formulate a long-term vision and translate it into an actionable strategic plan for the IT function. The Strategic Planning (SP) capability covers:1) Developing a long-term (typically 3-5 year) orientation or vision for the IT function, and high-level strategic options, and outlining programmes to implement these options.2) Aligning IT and business strategies.3) Identifying and analysing business challenges and opportunities to which IT can contribute.4) Involving key stakeholders in IT strategic planning.5) Evaluating and adjusting strategy and targets as appropriate.6) Developing relevant long-term roadmaps, such as for technology roll-out.",
+    "questions": "How embedded is IT strategic planning within the organization?To what extend are IT strategy processes (such as defining the IT vision and principles, strategic planning, tracking, and evaluation) operating within the organization?"
+  },
+  {
+    "id": 15,
+    "name_short": "BGM",
+    "name": "Budget Management (BGM)",
+    "group": "Managing the IT Budget",
+    "overview": "Enable active oversight and adjustment of the IT budget to ensure that it is spend effectively.",
+    "goal": "The Budget Management (BGM) capability aims to ensure that the allocated IT budgets are spend appropriately and within expectations.",
+    "definitions": "The Budget Management (BGM) capability is the ability to oversee and adjust the IT budget to ensure that it is spent effectively. The Budget Management (BGM) capability covers:1) Planning the IT budget.2) Tracking actual expenditure.3) Establishing budget accountability, oversight structures, and decision rights.4) Predicting future expenditure and out-of-tolerance variances.",
+    "questions": "To what extent is the IT budget planned, monitored, and adjusted to meet the demands of the business and minimize IT costs?To what extent does the IT function actively manage variances between budgeted and actual expenditure?"
+  },
+  {
+    "id": 16,
+    "name_short": "BOP",
+    "name": "Budget Oversight and Performance Analysis (BOP)",
+    "group": "Managing the IT Budget",
+    "overview": "Compare actual IT expenditure against budgeted IT expenditure over extended time periods. Where appropriate, provide management with the opportunity to reprofile or reprioritize the IT budget.",
+    "goal": "The Budget Oversight and Performance Analysis (BOP) capability aims to compare actual IT expenditure against planned IT expenditure over extended timeframes, and in doing so provides management with the stimulus to confirm or reset budgget allocations, where appropriate.",
+    "definitions": "The Budget Oversight and Performance Analysis (BOP) capability is the ability to compare actual IT expenditure against budgeted IT expenditure over extened time periods. Where approriate, it offers management the opportunity to reprofile or reprioritize budget forecasts and allocations. The budget Oversight and Performance Analysis (BOP) capability covers:1) Developing approaches and tools for budget performance analysis.2) Performing multi-year tracking and trend analysis of expenditure patterns in IT projects and IT budget categories.3) Reviewing IT hudget plans versus actual expenditure.4) Providing a stimulus for rebalancing and reprioritizing budgets.5) Forecasting future IT funding levels, allocation requirements, and prices for IT services.6) Determining the impact of historical budget performance on future budget planning and general cost management.7) Communicating IT budget performance metrics to key stakeholders.",
+    "questions": "How are variances and trends in IT budget performance tracked and analysed with a view to minimizing deviations?To what extent is historical budget performance reporting used as an input to budget planning?"
+  },
+  {
+    "id": 17,
+    "name_short": "FF",
+    "name": "Funding and Financing (FF)",
+    "group": "Managing the IT Budget",
+    "overview": "Determime the funding level required for IT and allocate it appropriately.",
+    "goal": "The Funding and Financing (FF) capability aims to generate reliable and flexible sources of funding for an organization, so that it can provide dequate investment and enable the IT function to deliver services and solutions to the organization.",
+    "definitions": "The Funding and Financing (FF) capability is the ability to determine the funding level required for IT and to allocate it appropriately. The Funding and Financing (FF) capability covers:1) Setting the overall levels of IT funding.2) Establishing leadership understanding regarding issues and options for IT funding and financing.3) Allocating IT funds to broad categories of IT activities – for example, for capital and operational expenditure.",
+    "questions": "To what extent are IT funding levels flexible and aligned with IT and business strategies?How does IT funding allocation contribute to the achievement of IT and business strategic objectives?"
+  },
+  {
+    "id": 18,
+    "name_short": "PPP",
+    "name": "Portfolio Planning and Prioritization (PPP)",
+    "group": "Managing the IT Budget",
+    "overview": "Select, prioritize, approve, and terminate programmes and projects that are seeking organizational resources.",
+    "goal": "The Portfolio Planning and Prioritization (PPP) capability aims to establish the investment portfolio composition for technology-related programmes and projects.",
+    "definitions": "The Portfolio Planning and Prioritization (PPP) capability is the ability to select, prioritize, approve, and terminate programmes and projects that are seeking organizational resources. The Portfolio Planning and Prioritization (PPP) capability covers:1) Establishing a framework for selecting and prioritizing programmes and projects.2) Involving key personnel in selecting programmes and projects.3) Assessing and prioritizing programmes and projects based on their alignment with business objectives and operational needs.4) Approving and terminating programmes and projects.5) Maintaining oversight of financial, people, and technical resources for portfolio resources planning purposes.",
+    "questions": "To what extent is there a recognized authority within your organization to select, approve, and terminate, programmes and projects, and to make decisions on prioritization?How are programmes and projects prioritized?"
+  },
+  {
+    "id": 19,
+    "name_short": "CAM",
+    "name": "Capaility Assessment Management (CAM)",
+    "group": "Managing the IT Capability",
+    "overview": "Conduct current state evaluations and plan improvements for its portfolio of IT capabilities.",
+    "goal": "The Capability Assessment Management (CAM) capability aims to provide the organization with an accurate picture of its current IT management capabilities, and to identify areas needing improvement.",
+    "definitions": "The Capability Assessment Management (CAM) capability is the ability of the organization to conduct current state evaluations and plan improvements for its portfolio of IT capabilities. Current state evaluations involve gathering and documenting data about the specific IT capabilities in the organization. The results then inform the planning and execution of improvement actions to deal with any deficiencies. The Capability Assessment Management (CAM) capability covers:1) Selecting an overarching capability framework and mapping other frameworks used in the organization to it.2) Managing continuous improvement of the organization’s IT capabilities.3) Securing appropriate senior management sponsorship for IT capability improvement.4) Promoting organizational buy-in and incentivizing participation in capability improvement evaluation and planning.5) Planning, preparing, and conducting capability evaluations.6) Setting IT capability targets and defining development roadmaps for key IT capabilities.",
+    "questions": "To what extent are frameworks and governance structures in place to support capability assessment management?To what extent are approaches for planning and executing assessments, evaluating results, setting targetsm and developing improvement roadmaps in place?"
+  },
+  {
+    "id": 20,
+    "name_short": "EAM",
+    "name": "Enterprise Architecture Management (EAM)",
+    "group": "Managing the IT Capability",
+    "overview": "Plan, design, manage, and control the conceptualization of systems, processes and/or organizations, and the relationships between them.",
+    "goal": "The Enterprise Architecture Management (EAM) capability aims to deliver an overarching approach within which the IT function can design, deploy, and execute the organization’s business strategy.",
+    "definitions": "The Enterprise Architecture Management (EAM) capability is the ability to plan, design, manage, and control, the conceptualization of systems, processes, and/or organizations, and the relationships between them. The conceptualization may be layered to represent specific types of relationships – for example, tjose between applications, business services, internal IT services, security, networking, data storage, and so on. The Enterprise Architecture Management (EAM) capability covers:1) Establishing principles to guide the design and evolution of systems, processes, and/or organizations.2) Providing a framework, including models or templates, that articulates the business, the technical architecture, and the relationships between them.3) Providing the architecture vision, roadmap, and governance, together with the approaches required for managing their life cycle.4) Managing the architectural skills and architecture resourcing.5) Communicating the impact of enterprise architecture activites",
+    "questions": "To what extent is there a current and target architecture for infrastructuree, applications, and information to support business processes?To what extent does the IT architecture reflect the organization’s requirements for standardization (same or different business processes), and integration (high or low linking of data across the organization)?"
+  },
+  {
+    "id": 21,
+    "name_short": "ISM",
+    "name": "Information Security Management (ISM)",
+    "group": "Managing the IT Capability",
+    "overview": "Manage approaches, policies, and controls that safeguard the integrity, confidentiality, accessibility, accountability, and usability of digitalized information resources.",
+    "goal": "The Information Security Management (ISM) capability aims to protect the information held by the organization from damage, to prevent its harmful use (to people or organizations), and to facilitate its legitimate operational and business use.",
+    "definitions": "The Information Security Management (ISM) capability is the ability to manage approaches, policies, and controls that safeguard the integrity, confidentiality, accessibility, accountability, and usability of digitalized information resources. The Information Security Management (ISM) capability covers:1) Preventing unauthorized access, use, disclosure, disruption, modification, or destruction of digitized information resources.2) Establishing an information security governance model, including allocating roles, responsibilities, and accountabilities.3) Measuring the effectiveness of existing security approaches, policies, and controls – for example, by applying security standards and conducting internal audits.4) Managing security-related communications and training of employees.5) Assessing, prioritizing, responding to, and monitoring information security risks and incidents.6) Securing physical IT components and IT areas.7) Providing expertise to protect, preserve, and/or destroy data in line with business, regulatory, and/or other security requirements.8) Reporting on information securitty activities and compliance levels.",
+    "questions": "How are information security policies, approaches, and controls agreed?To what extent is a security-compliant culture evident?"
+  },
+  {
+    "id": 22,
+    "name_short": "KAM",
+    "name": "Knowledge Asset Management (KAM)",
+    "group": "Managing the IT Capability",
+    "overview": "Identify, capture, profile, calssify, store, maintain, protect, and exploit the organization’s knowledge assets in pursuit of business outcomes.",
+    "goal": "The Knowledge Asset Management (KAM) capability enables employees to capture, share, develop, and leverage their collective knowledge to improve the performance of knowledge-based business activities and decision-making.",
+    "definitions": "The Knowledge Asset Management (KAM) capability is the ability to identify, capture, profile, classify, store, maintain, protect, and exploit the organization’s knowledge assets in pursuit of business outcomes. The Knowledge Asset Management (KAM) capability covers:1) Establishing a knowledge management policy, strategy, and programme.2) Assigning roles and accountabilities, and determining requisite employee skills.3) Fostering a knowledge-sharing culture.4) Providing tools, technologies, and other resources to support knowledge management activities.5) Managing the knowledge asset life cycle, from identifying, capturing, profiling, classifying, storing, and maintaining, to archiving or discarding, as appropriate.6) Assessing the impact of knowledge asset management activities.",
+    "questions": "How do IT services and solutions support the capture and use of knowledge?How are the benefits of knowledge asset management practices tracked?"
+  },
+  {
+    "id": 23,
+    "name_short": "PAM",
+    "name": "People Asset Management (PAM)",
+    "group": "Managing the IT Capability",
+    "overview": "Meet the organization’s requirements for an effective IT workforce.",
+    "goal": "The People Asset Management (PAM) capability aims to manage the IT workforce’s employment life cycle to ensure adequate availability of competent employees.",
+    "definitions": "The People Asset Management (PAM) capability is the ability to meet the organization’s requirements for an effective IT workforce. The People Asset Management (PAM) capability covers:1) Defining and implementing an IT workforce strategy.2) Implementing Human Resources (HR) policies.3) Defining IT job families and career development models.4) Establishing a compensation and incentive system.5) Monitoring and managing employee satisfaction.6) Defining and managing the IT function’s branding and the IT employee recruitment process.7) Managing IT employee deployment into specific roles.8) Managing the evaluation of IT employee performance.9) Managing IT employee development.10) Establishing an IT employee promotion process.11) Succession planning for key IT roles.12) Managing IT employee turnover, termination, and post-employment relations (for example through alumni networking).",
+    "questions": "To what extent are strategies and mechanisms in place to support the strategic management of the IT workforce?To what extent are approaches in place for managing the IT employment life cycle, including recruitment, deployment, performance evaluation, training and development, promotion, and succession planning?"
+  },
+  {
+    "id": 24,
+    "name_short": "PPM",
+    "name": "Programme and Project Management (PPM)",
+    "group": "Managing the IT Capability",
+    "overview": "Initiate, plan, execute, monitor, control, and close programmes and projects in line with the business objectives, and manage associated risks, changes, and issues.",
+    "goal": "The Programme and Project Management (PPM) capability provides a methodical approach to achieving business objectives when planning, executing, and closing programmes and projects.",
+    "definitions": "The Programme and Project Management (PPM) capability is the ability to initiate, plan, execcute, monitor, control, and close programmes and projects in line with the business objectives, and to manage associated risks, changes, and issues. The Programme and Project Management (PPM) capability covers:",
+    "questions": "To what extent does an overarching methodology exist for managing the full programme and project life cycle – initiating, planning, executing, monitoring, controlling, and closing programmes and projects?To what extent is the performance of individual programmes and projects managed?"
+  },
+  {
+    "id": 25,
+    "name_short": "REM",
+    "name": "Relationship Management (REM)",
+    "group": "Managing the IT Capability",
+    "overview": "Analyse, plan, maintain, and enhance, relationship between the IT function and the rest of the business.",
+    "goal": "The Relationship Management (REM) capability aims to ensure that liaison and long-term interaction between the IT function and other business units foster business awareness, mutually align interests, and help minimize issues of conflict.",
+    "definitions": "The Relationship Management (REM) capability is the ability to analyse, plan, maintain, and enhance relationships between the IT function and the rest of the business. It covers:1) Understanding the IT function’s web of formal and informal relationships across the organization.2) Developing programmes to enhance relationships between the IT function and the rest of the business.3) Acting as a conduit for real0time, bi-directional knowledge transfer between the IT function and the rest of the business.",
+    "questions": "To what extent does the IT function actively manage relationships with stakeholders and other business units?How are relationship management activites monitored to build trust, confidencce, and goodwill?"
+  },
+  {
+    "id": 26,
+    "name_short": "RDE",
+    "name": "Research, Development, and Engineering (RDE)",
+    "group": "Managing the IT Capability",
+    "overview": "Investigate, acquire, develop, and evaluate technologies, solutions, and usage models that are new to the organization and might offer value.",
+    "goal": "The Research, Development and Engineering (RDE) capability aims to identify new technologies that can deliver business value to the organization.'New’ in this context means things that are new to the organization, including technologies, solutions, and usage models. These could be well established elsewhere (outside the organization) but would be considered new if they had not already been applied within the organization. Of course, ‘new’ also includes technologies that are universally new or emerging.",
+    "definitions": "The Research, Development and Engieering (RDE) capability is the ability to investigate, acquire, develop, and evaluate technologies, solutions, and usage models that are new to the organization and might offer value. The Research, Development and Engineering (RDE) cpability covers:1) Ensuring that research into new technologies Is managed appropriately, so that risk to the organization is minimized, while opportunities are maximized.2) Linked research into new technologies to potential usage models that can benefit business units.3) Coordinating a research pipeline of promising new technology projects, through a series of phased investment decisions, as understanding of feasibility and relevance is enhanced.4) Managing the research portfolio to better align with business goals.5) Instilling an organizational culture that promotes research and innovation.6) Measure the value contributed by technology research activities.",
+    "questions": "How are new technology research projects aligned with business goals?How are new technology research projects governed?"
+  },
+  {
+    "id": 27,
+    "name_short": "SRP",
+    "name": "Service Provisioning (SRP)",
+    "group": "Managing the IT Capability",
+    "overview": "Manage the life cycle of IT services to satisfy business requirements.",
+    "goal": "The Service Provisioning (SRP) capability aims to identify, deliver, and manage the IT services that enable the organization to meet its defined business objectives.",
+    "definitions": "The Service Provisioning (SRP) capability is the ability to manage the life cycle of IT services to satisfy business requirements. This includes ongoing activites relating to operation, maintenance, and continual service improvement, and also transitional activities related to the design and introduction of services, their deployment, and their eventual decommissioning. The Service Provisioning (SRP) capability includes:1) Defining and describing the services provided by the IT function.2) Managing the IT services catalogue.3) Managing IT service configuration.4) Manage IT service availability.5) Managing the IT service desk.6) Managing requests, incidents, and problems.7) Managing access to IT services.8) Addressing requests for new IT services and decommissioning unwanted IT services.9) Managing IT service levels and service level agreements (SLAs).",
+    "questions": "How does the IT function develop and deploy IT services?How are the operations of IT services reviewed and adapted?"
+  },
+  {
+    "id": 28,
+    "name_short": "SD",
+    "name": "Solutions Delivery (SD)",
+    "group": "Managing the IT Capability",
+    "overview": "Design, develop, validate, and deploy IT solutions that effectively address the organization’s business requirements and opportunities.",
+    "goal": "The Solutions Delivery (SD) capability aims to develop IT solutions that are effective in meeting business needs.",
+    "definitions": "The Solutions Delivery (SD) capability is the ability to design, develop, validate, and deploy IT solutions that effectively address the organization’s business requirements and opportunities. The Solutions Delivery (SD) capability covers:1) Managing requirements (functional and non-functional) and their traceability throughout the IT solution’s delivery life cycle.2) Developing IT solutions based on the output from requirements analysis and the solution’s architecture.3) Selecting appropriate methods and IT solutions delivery life cycle models (for example, waterfall, incremental, agile).4) Reviewing and testing IT solutions throughout the development process.5) Managing changes and releases that occur during the IT solution’s delivery life cycle.",
+    "questions": "To what extent are IT solutions development approaches in place across requirements gathering, desing, building, testing, and deployment/release?How is the governance of IT solutions development managed?"
+  },
+  {
+    "id": 29,
+    "name_short": "SUM",
+    "name": "Supplier Management (SUM)",
+    "group": "Managing the IT Capability",
+    "overview": "Manage interactions with the IT function’s suppliers in line with the sourcing strategy.",
+    "goal": "The Supplier Management (SUM) capability aims to manage interactions between the IT function and its suppliers.",
+    "definitions": "The Supplier Management (SUM) capability is the ability of the IT function to manage interactions with its suppliers in line with the sourcing strategy. The Supplier Management (SUM) capability covers:1) Developing relationships with suppliers to improve levels of performance, quality, and innovation.2) Managing risks associated with the organization’s use of outside suppliers.3) Validating that suppliers’ performance is in accordance with contracts terms.4) Facilitating lines of communication with suppliers.5) Managing procurement activities with suppliers.6) Building two-way performance evaluation between the IT function and its suppliers.",
+    "questions": "To what extent are spplier relationships managed to create shared value?How are contracts managed across the supplier base?"
+  },
+  {
+    "id": 30,
+    "name_short": "TIM",
+    "name": "Technical Infrastructure Management (TIM)",
+    "group": "Managing the IT Capability",
+    "overview": "Manage interactions with the IT infrastructure across the complete life cycle of transitional and operational activities.",
+    "goal": "The Technical Infrastructure Management (TIM) capability aims to holistically manage all physical and virtual components of the IT infrastructure to support the introduction, maintenance, and retirement of IT services.",
+    "definitions": "The Technical Infrastructure Management (TIM) capability is the ability to manage an organization’s IT infrastructure across the complete life cycle of:1) Transitional activites including building, deploying and decommissioning infrastructure.2) Operational activites includng operation, maintenance, and continual improvement of infrastructure.IT infrastructure is comprised of:1) Physical devices – for example, servers, storage, and mobile devices.2) Virtual devices/resources – for example, virtual storage and virtual networks.3) Infrastructure-related software – for example, middleware, operating systems, and firmware.4) Communications components – for example; LAN/WAN, Wi-Fi, MPLS, and voice infrastructure.5) Platform services – for example, content management, and web services.6) IT infrastructure governance – for example, asset management and configuration management.",
+    "questions": "To what extent is the technical infrastructure managed to deliver robust, IT-enabled business services – using, for example, criteria such as reliabilit, scalability, availability, and cost efficiency?How is the IT infrastructure managed?"
+  },
+  {
+    "id": 31,
+    "name_short": "UED",
+    "name": "User Experience Design (UED)",
+    "group": "Managing the IT Capability",
+    "overview": "Proactively consider the needs of users at all stages in the life cycle of IT services and solutions.",
+    "goal": "The User Experience Design (UED) capability aims to address both the usability and the usefulness of IT services and solutions across various audiences, purposes, and contexts of use.1) Usability relates to the ease with which IT services and solutions can be used from a user’s perspective.2) Usefulness relates to how well IT services and solutions serve their intended purposes.",
+    "definitions": "The User Experience Design (UED) capability is the ability to proactively consider the needs of users at all stages of the life cycle of IT services and solutions. The User Experience Design (UED) capability covers:1) Designing IT services and solutions that both meet business objectives and satisfy user needs.2) Arriving at an understanding of users’ preferences in their interactions to enable evaluations from a user experience perspective.3) Designing ‘mock’ environments of IT services and solutions to enable evaluation from a user experience perspective.4) Gathering users’ experience s through qualitative and quantitative methods – for example, through surveys, focus groups, and interviews.",
+    "questions": "How is user experience taken into account in the organization?How, in general, do users perceive IT services and solutions?"
+  },
+  {
+    "id": 32,
+    "name_short": "UTM",
+    "name": "User Training Management (UTM)",
+    "group": "Managing the IT Capability",
+    "overview": "Provide training that will inprove user proficiency in the use of business applications and other IT-supported services.",
+    "goal": "The User Training Management (UTM) capability aims to ensure that users acquire the skills they need to user business applications and other IT-supported services effectively.",
+    "definitions": "The User Training Management (UTM) capability is the ability to provide training that will improve user proficiency in the use of business applications and other IT-supported services. The User Training Management (UTM) capability covers:1) Ensuring that users achieve the required level of proficiency by providing appropriate training to those users who need it, when they need it, in a way that supports the organization’s operational needs cost-efficiently.2) Delivering user training on business applications, other IT-supported services, and applications used for IT service and hardware management.3) Delivering taining associated with IT-supported security, governance policies, industry regulations, acceptable use policies, and so on.4) Assessing the impact of IT-supported training on user proficiency and productivity in the work environment.",
+    "questions": "How is IT-related training developed to address user needs?How is IT-related user training delivered, and its impact assessed?"
+  },
+  {
+    "id": 33,
+    "name_short": "BAR",
+    "name": "Benefits Assessment and Realization (BAR)",
+    "group": "Managing IT for Business Value",
+    "overview": "Forecast, realize, and sustain value from IT-enabled change initiatives.",
+    "goal": "The Benefits Assessment and Realization (BAR) capability aim",
+    "definitions": "The Beneftis Assessment and Realization (BAR) capability is the ability to forecast, realize, and sustain value from IT-enabled change initiative. The Benefits Assessment and Realization (BAR) capability covers:1) Establishing systematic, objective, and consistent approaches to managing benefits across the full investment life cycle for IT-enabled change – that is, from benefits forecasting and planning, to benefits reviewing and reporting.2) Identifying and advocating cultural and behavioural changes to maximize the value of IT-enabled change.",
+    "questions": "To what extent does the organization focus on realizing demostrable business value from technology expenditure?To what extent are business cases managed as decision-making aids?"
+  },
+  {
+    "id": 34,
+    "name_short": "PM",
+    "name": "Portfolio Management (PM)",
+    "group": "Managing IT for Business Value",
+    "overview": "Monitor, track, and analyse the the programmes in the IT portfolio, and report on their status.",
+    "goal": "The Prortfolio Management (PM) capability aims to monitor and report on the status of an investment portfolio of IT programmes.",
+    "definitions": "The Portfolio Management (PM) capability is the ability to monitor, track, and analyse the programmes in the IT portfolio, and to report on their status. The Portfolio Management (PM) capability covers:1) Monitoring and tracking the progress and impact of programmes within the portofolio.2) Reviewing the programmes in the portfolio for adherence to the original business case. 3) Monitoring utilization rates against planned resource allocations, including financial, technical, and people resources.4) Providing the Portfolio Planning and Prioritization (PPP) capability with an up-to-date portfolio status, including any deviations beyond a defined threshold on progress and expected impact.",
+    "questions": "To what extent does the organization track the status of IT programmes using a portfolio approach?To what extent are the current status, progress deviations, and risks of programmes in the the portfolio reported upon to support decision-making?"
+  },
+  {
+    "id": 35,
+    "name_short": "TCO",
+    "name": "Total Cost of Ownership (TCO)",
+    "group": "Managing IT for Business Value",
+    "overview": "Identify, compare, and control all direct and indirect cost associated with IT assets and IT-enabled business services.",
+    "goal": "The Total Cost of Ownership (TCO) capability aims to collect, analyse, and disseminate data on all costs associated with an IT asset or IT-enabled business service throughout its life cycle, from initial acquisition, through deployment, operation, and maintenance, to its eventual removal.",
+    "definitions": "The Total Cost of Ownership (TCO) capability is the ability to identify, compare, and control all direct and indirect costs associated with IT assets and IT-enabled business services. The Total Cost of Ownership (TCO) capability covers:1) Identifying and analysisng IT costs across asset and service life cycles, from acquisition to operations, enhancements, and end of life.2) Identifying all costs that both directly and indirectly affect the bottom line – for example hardware and software acquisition, management, and support, communications, training, end-user expenses, the opportunity cost of downtime, and other productivity losses.3) Establishing a common methodology for comparing costs within and across IT assests, processes, and services.",
+    "questions": "How is the total cost of ownership for IT assets and IT-enabled business services calculated to identify IT cost drivers?To what extent do total cost of ownership activities support decision-making?"
+  }
+]

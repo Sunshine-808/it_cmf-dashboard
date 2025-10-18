@@ -1,0 +1,315 @@
+[
+  {
+    "id": "1",
+    "artifacts": [
+      "An IT accounting model",
+      "A chargeback/showback model",
+      "An IT services catelogue"
+    ]
+  },
+  {
+    "id": "2",
+    "artifacts": [
+      "An IT business plan",
+      "A business-as-usual commitments database",
+      "A global requirements catelogue"
+    ]
+  },
+  {
+    "id": "3",
+    "artifacts": [
+      "A business process management policy",
+      "A business process management governance model",
+      "A business process management technology suite",
+      "A business process model and notation"
+    ]
+  },
+  {
+    "id": "4",
+    "artifacts": [
+      "An IT forecast plan",
+      "An IT utilization report",
+      "A capacity management information system (CMIS)"
+    ]
+  },
+  {
+    "id": "5",
+    "artifacts": [
+      "Demand models",
+      "An IT services portfolio",
+      "An IT services catelogue",
+      "A chared operations calendar",
+      "Supply models"
+    ]
+  },
+  {
+    "id": "6",
+    "artifacts": [
+      "An information management strategy",
+      "An information governance policy",
+      "An access controls policy"
+    ]
+  },
+  {
+    "id": "7",
+    "artifacts": [
+      "An environmental sustainability strategy",
+      "A green information technology roadmap",
+      "Green information technology targets"
+    ]
+  },
+  {
+    "id": "8",
+    "artifacts": [
+      "An innovation lab",
+      "An innocation pipeline dashboard",
+      "Innovation recognition rewards",
+      "An innovation facilitation portal",
+      "A social collaboration platform"
+    ]
+  },
+  {
+    "id": "9",
+    "artifacts": [
+      "An Itvision statement",
+      "A documented IT decision making process",
+      "A decision-making responsibility and accountability matrix",
+      "Formal constitution for an IT corporate steering committee",
+      "Formal constitution for an IT enterprise governance council"
+    ]
+  },
+  {
+    "id": "10",
+    "artifacts": [
+      "Organization structure templates",
+      "Organization design guidelines",
+      "Organization charts",
+      "Documented organization design effectiveness indicators"
+    ]
+  },
+  {
+    "id": "11",
+    "artifacts": [
+      "A risk management policy",
+      "A risk profiling and scoring approach",
+      "A risk register"
+    ]
+  },
+  {
+    "id": "12",
+    "artifacts": [
+      "Service level agreements (SLAs)",
+      "Analytics software",
+      "Business process to IT service maps",
+      "A configuration management database (CMDB)"
+    ]
+  },
+  {
+    "id": "13",
+    "artifacts": [
+      "A strategic IT sourcing plan",
+      "A documented IT sourcing methodology",
+      "A sourcing readiness checklist",
+      "A sourcing contract",
+      "Sourcing model templates"
+    ]
+  },
+  {
+    "id": "14",
+    "artifacts": [
+      "A business strategy plan",
+      "An IT strategic plan",
+      "An IT vision statement",
+      "An outline business case",
+      "IT strategic options"
+    ]
+  },
+  {
+    "id": "15",
+    "artifacts": [
+      "An IT budget plan",
+      "An IT budget review charter",
+      "An IT financial audit report",
+      "A cash flow/operating budget statement"
+    ]
+  },
+  {
+    "id": "16",
+    "artifacts": [
+      "An IT budget plan",
+      "An IT budget analysis tool",
+      "An IT financial audit report"
+    ]
+  },
+  {
+    "id": "17",
+    "artifacts": [
+      "An IT budget plan",
+      "IT funding benchmark data",
+      "IT funding models",
+      "Cash flow/operating budget statement"
+    ]
+  },
+  {
+    "id": "18",
+    "artifacts": [
+      "Portfolio prioritization criteria",
+      "A portfolio prioritization framework",
+      "A portfolio plan"
+    ]
+  },
+  {
+    "id": "19",
+    "artifacts": [
+      "A capability-based framework",
+      "An assessment guideline document",
+      "An assessment methodology",
+      "A development roadmap"
+    ]
+  },
+  {
+    "id": "20",
+    "artifacts": [
+      "Documented enterprise architecture deliverables",
+      "A documented architecture development methodology",
+      "An enterprise architecture tool set and repository"
+    ]
+  },
+  {
+    "id": "21",
+    "artifacts": [
+      "An incident log",
+      "A risk register",
+      "IT security management software",
+      "An information security management policy",
+      "A vulnerabilities and patch availability database"
+    ]
+  },
+  {
+    "id": "22",
+    "artifacts": [
+      "A knowledge strategy document",
+      "A knowledge asset repository",
+      "A knowledge domain experts register"
+    ]
+  },
+  {
+    "id": "23",
+    "artifacts": [
+      "An IT workforce strategy",
+      "HR policies",
+      "Job families",
+      "A career development model",
+      "A training catalogue"
+    ]
+  },
+  {
+    "id": "24",
+    "artifacts": [
+      "A project schedule/Gantt schart",
+      "A programme performance dashboard",
+      "A programme/project risk score card",
+      "A programme/project issue log"
+    ]
+  },
+  {
+    "id": "25",
+    "artifacts": [
+      "An account management plan",
+      "An innovation lab",
+      "An IT annual report",
+      "Business (unit) profiles",
+      "Business relationship call logs",
+      "An IT services catalogue"
+    ]
+  },
+  {
+    "id": "26",
+    "artifacts": [
+      "Guidelines for new technology research intelligence gathering",
+      "A repository of new technology research projects",
+      "An ideation platform",
+      "A new technology research performance report",
+      "An innovation lab"
+    ]
+  },
+  {
+    "id": "27",
+    "artifacts": [
+      "An IT services catelogue",
+      "A service level agreement (SLA)",
+      "An operational level agreement (OLA)",
+      "A cofiguration management database (CMDB)",
+      "An IT service management software suite"
+    ]
+  },
+  {
+    "id": "28",
+    "artifacts": [
+      "Solutions development methodologies",
+      "A systems requirements log",
+      "A functional and non-functional requirements log"
+    ]
+  },
+  {
+    "id": "29",
+    "artifacts": [
+      "Supplier relationship management systems",
+      "Supplier management balanced scorecards",
+      "Service level agreements (SLAs)",
+      "Operational level agreements (OLAs)"
+    ]
+  },
+  {
+    "id": "30",
+    "artifacts": [
+      "Documentation of the policies and approaches for life cycle management of the IT infrastructure",
+      "An IT infrastructure roadmap",
+      "A remote infrastructure management (RIM) platform",
+      "A configuration management database (CMDB)",
+      "A mobile device management (MDM) platform"
+    ]
+  },
+  {
+    "id": "31",
+    "artifacts": [
+      "Artefacts to support user experience research methods",
+      "Artefacts to support user experience communication methods",
+      "Artefacts to support user design conceptualization methods"
+    ]
+  },
+  {
+    "id": "32",
+    "artifacts": [
+      "A user training management plan",
+      "A training content knwledge base",
+      "A database of training needs",
+      "A training impact assessment method"
+    ]
+  },
+  {
+    "id": "33",
+    "artifacts": [
+      "A library of business value indcators",
+      "A benefits plan",
+      "A business case template",
+      "A benefits dependency map"
+    ]
+  },
+  {
+    "id": "34",
+    "artifacts": [
+      "A prortfolio report",
+      "A portfolio dashboard",
+      "A scenario analysis model"
+    ]
+  },
+  {
+    "id": "35",
+    "artifacts": [
+      "Total cost of ownership policy and models",
+      "A cost tracking database",
+      "A configuration management database (CMDB)"
+    ]
+  }
+]

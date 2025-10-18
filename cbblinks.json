@@ -1,0 +1,1401 @@
+[
+  {
+    "id": 1,
+    "cbbs": [
+      {
+        "cbb": "A1: Cost Coverage",
+        "definition": "Determine the scope of IT services (for example, essential, subscription, and discretionary services) whose costs are allocated to business units."
+      },
+      {
+        "cbb": "A2: Account Policy and Cost Recovery Model",
+        "definition": "Develop policies for calculating costs associated with the consumption of IT services, and develop a model for cost allocation and recovery."
+      },
+      {
+        "cbb": "B1: Decision-Making Transparency",
+        "definition": "Manage data on usage volumes and associated costs to provide visibility to inform decision-making across business units."
+      },
+      {
+        "cbb": "B2: Governance and Communication",
+        "definition": "Apply appropriate oversight and communication approaches to ensure that business unit stakeholders understand and have buy-in to cost allocation and recovery policies."
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "cbbs": [
+      {
+        "cbb": "A1: Roles and Responsibilities",
+        "definition": "Select employees with the experience, knowledge, and authority needed to represent the interests of stakeholders."
+      },
+      {
+        "cbb": "B1: Ongoing Operational Commitments",
+        "definition": "Determine the financial and other resources in the organization, and the extent to which they are already committed to ongoing contracts and obligations or are available to be deployed on new activities."
+      },
+      {
+        "cbb": "B2: Alignment Planning",
+        "definition": "Manage updates to the IT business plan to reflect changes in the IT strategy."
+      },
+      {
+        "cbb": "B3: Business Plan Development",
+        "definition": "Formulate, review, revise, canvass support for, finalize, and sign-off the IT business plan."
+      },
+      {
+        "cbb": "B4: Business Plan Communication",
+        "definition": "Communicate the IT business plan and its implications to stakeholders."
+      },
+      {
+        "cbb": "B5: Business Plan Review and Control",
+        "definition": "Monitor planned against actual performance, so that the plan can be adopted appropriately as business priorities change."
+      },
+      {
+        "cbb": "C1: Business Plan Objectives",
+        "definition": "Define IT objectives, including those relating to ongoing operational needs, new initiatives, and opportunities that the business wishes to pursue."
+      },
+      {
+        "cbb": "C2: Planned Resource Utilization",
+        "definition": "Forecast resources required to achieve the objectives set out by the IT business plan, including finance, equipment, facilities, energy, people, telecomunications, services, and so on."
+      },
+      {
+        "cbb": "C3: Success Criteria",
+        "definition": "Specify success criteria and associated metrics for determining the effectiveness of IT business planning."
+      },
+      {
+        "cbb": "C4: Planning Assumptions",
+        "definition": "Document the scope and provenance of the assumptions and estimates that underlie the IT business plan – for example, an internally generated sales forecast that is informed by market and customer feedback."
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "cbbs": [
+      {
+        "cbb": "A1: Strategy and Leadership",
+        "definition": "Establish strategies and plans to lead the development of process management activities."
+      },
+      {
+        "cbb": "A2 Support Organization and Personnel",
+        "definition": "Establish the structure, competences, roles, responsibilities, and resource levels to support process improvement activities."
+      },
+      {
+        "cbb": "A3: Standards and Methods",
+        "definition": "Establish a set of standards and methods for managing processes. These could include modelling standards, process notation, definitions of terminology to be used, improvement methods, process governance structures, and measures for determining value and the effectiveness of implementation."
+      },
+      {
+        "cbb": "A4: Technologies",
+        "definition": "Identify and implement technologies for documenting, organizing, and evaluating process improvements."
+      },
+      {
+        "cbb": "A5: Stakeholder Management",
+        "definition": "Generate understanding, motivation, and commitment to process management. This may include communication about process management apporaches, success stories, lessons learned, potential value opportunities, and value realized."
+      },
+      {
+        "cbb": "B1: Scope of Implementation",
+        "definition": "Establish the breadth of processes to be managed. This is guided by the organizational context – for example, by the structure, strategies, priorities, and culture of the organization."
+      },
+      {
+        "cbb": "B2: Process Architecture",
+        "definition": "Document the organization’s process architecture, using consistent terminologies, precise definition of objectives, roles, flows, and relationships, and agreed protocols for process naming."
+      },
+      {
+        "cbb": "B3: Process Governance",
+        "definition": "Establish a governance structure for the processes being addressed. This might cover process ownership, decision rights, and measures to evaluate progress against process objectives."
+      },
+      {
+        "cbb": "B4: Process Improvement",
+        "definition": "Identify and use available methodologies for evaluating, redesigning, and improving how the organization works towards its desired outcomes."
+      },
+      {
+        "cbb": "B5: Process Automation",
+        "definition": "Use technologies to simulate, integrate, operationalize, and monitor business processes."
+      },
+      {
+        "cbb": "B6: The IT Contribution",
+        "definition": "Use the IT function’s organization-wide perspective to drive the effectiveness of business process management."
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "cbbs": [
+      {
+        "cbb": "A1: Model Design",
+        "definition": "Define a model or set of models to forecast resource utilization across IT services, infrastructure, facilities, and people. Agree on assumptions and methodologies, as well as error toloerances for each resource type."
+      },
+      {
+        "cbb": "A2: Model Maintenance",
+        "definition": "Monitor the modelling accuracy (for example, by comparing actual to forecast resource utilization) and manage efficiency (for example, automation and data availability) of IT capacity modelling. Refine and recalibrate the model’s structure, parameters, and assumptions, as required to improve performance."
+      },
+      {
+        "cbb": "B1: Input Management",
+        "definition": "Identify inputs required for IT capacity forecasting. Gather and validate input data for forecast scenarios."
+      },
+      {
+        "cbb": "B2: Production of Capacity Plans",
+        "definition": "Compile capacity plans to inform decision-making."
+      },
+      {
+        "cbb": "B3: Communication",
+        "definition": "Communicate the IT capacity plan to relevant stakeholders, and facilitate action to resolve shortages and/or over-capacity."
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "cbbs": [
+      {
+        "cbb": "A1: Demand Analysis and Management",
+        "definition": "Analyse business demand for an consumption of IT services to anticipate future demand and how it might be provided for."
+      },
+      {
+        "cbb": "A2: Technology Impact Assessment",
+        "definition": "Comprehend the impact that changes in emerging technologies could have on business demand for IT services."
+      },
+      {
+        "cbb": "B1: Supply Analysis and Management",
+        "definition": "Gather and analyse information on the supply capacity of IT services to arrive at optimum supply solutions."
+      },
+      {
+        "cbb": "B2: Technology Application",
+        "definition": "Analyse existing and emerging technologies with a view to determining what are the most cost-effective supply solutions."
+      },
+      {
+        "cbb": "C1: Gap Management",
+        "definition": "Ensure IT services meet business needs by addressing projected gaps between the supply of IT services and likely business demand. This might include measures such as capacity expansion, changes in charging structures, product or service substitutions, training programmes for end users, and the association of incentives and penalties with particular usage patterns."
+      },
+      {
+        "cbb": "C2: Service Portfolio Management",
+        "definition": "Manage the IT services portfolio to include setting deployment schedules for new services, making changes to existing services, and removing redundant services."
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "cbbs": [
+      {
+        "cbb": "A1: Information Management Strategy",
+        "definition": "Define the long-term value and competitive positioning objectives for the management, sources, and uses of information."
+      },
+      {
+        "cbb": "A2: Information Governance",
+        "definition": "Develop and implement authorization and decision-making approaches that are executed through organizational structures and activities."
+      },
+      {
+        "cbb": "A3: Communities of Practice",
+        "definition": "Build, foster, and maintain the sharing of good information management practices among employees."
+      },
+      {
+        "cbb": "A4: Leadership",
+        "definition": "Promote the adoption of information management practices."
+      },
+      {
+        "cbb": "B1: Standards and Policies",
+        "definition": "Develop and communicate standards and policies for information management (including data definitions, taxonomies, models, usage patterns, archiving policies and schedules, information policies, roles and rights), and key process indicators (such as service levels for all data and information-based services, and cost ownership)."
+      },
+      {
+        "cbb": "B2: Controls",
+        "definition": "Establish a control framework for information management, which may include ways to monitor effectiveness and efficiency, manage change, and control access, as well as guidance on data and information use."
+      },
+      {
+        "cbb": "C1: Information Valuation",
+        "definition": "Establish and update the value of data and information assets based on criteria such as economic, financial, reputational, and technical risk, age, frequency of use, and position within the information life cycle."
+      },
+      {
+        "cbb": "C2: Master Data Management",
+        "definition": "Define and maintain one or more master datasets, and synchronize them across relevant processes and systems. Define the data patterns and the quality standards to which data must confirm in each stage of its life cycle."
+      },
+      {
+        "cbb": "C3: Metadata Management",
+        "definition": "Define and update metadata that indicates the information life cycle stage and access control criteria for both business and technical data."
+      },
+      {
+        "cbb": "C4: Information Quality",
+        "definition": "Establish policies that promote data and information quality."
+      },
+      {
+        "cbb": "C5: Information Life Cycle Management",
+        "definition": "Define and manage the life cycle for business, technical, and forensics data and information to ensure that it is accurate, available, and accessible, and that it is removed at the end of its useful life. Life cycle management extends to archive maintenance."
+      },
+      {
+        "cbb": "C6: Business Continuity Management",
+        "definition": "Provide information to business continuity planning on the data and information that is needed to support various business functions and activities."
+      },
+      {
+        "cbb": "C7: Information Security",
+        "definition": "Provide oversight, processes, and tools to enable the security, availability, integrity, and accessibility of information throughout its life cycle."
+      },
+      {
+        "cbb": "D1: Competences and Tools",
+        "definition": "Develop competences and tools for information management, business intelligence, and analytics to support decision-making."
+      },
+      {
+        "cbb": "D2: Data Provision",
+        "definition": "Provide data for reporting and analysis purposes."
+      },
+      {
+        "cbb": "D3: Reports and Analytics",
+        "definition": "Provide reports for representing and interpreting business information."
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "cbbs": [
+      {
+        "cbb": "A1: Objectives",
+        "definition": "Define the green information technology objectives for the IT function."
+      },
+      {
+        "cbb": "A2: Alignment",
+        "definition": "Align green information technology objectives between the IT function and the rest of the business."
+      },
+      {
+        "cbb": "B1: Operations and Life Cycle",
+        "definition": "Source/design, operate, and dispose of IT systems in an environmentally sensitive manner."
+      },
+      {
+        "cbb": "B2: Technology- Enhanced Business Processes",
+        "definition": "Identify IT solutions that enable environmentally sensitive business operations."
+      },
+      {
+        "cbb": "B3: Performance and Reporting",
+        "definition": "Demonstrate progress against objectives for green information technology concerning the IT function or technology-enabled solutions across business operations."
+      },
+      {
+        "cbb": "C1: Language",
+        "definition": "Define, communicate, and use language and vocabulary for green information technology that are understood by all stakeholders."
+      },
+      {
+        "cbb": "C2: Adoption",
+        "definition": "Promote principles and behaviours that support green information technology."
+      },
+      {
+        "cbb": "D1: Regulatory Compliance",
+        "definition": "Enable and demonstrate compliance with external standards and regulations concerning the environmental impact of computing and business operation activities."
+      },
+      {
+        "cbb": "D2: Corporate Policies",
+        "definition": "Establish corporate policies to support a gree information technology strategy."
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "cbbs": [
+      {
+        "cbb": "A1: Vision",
+        "definition": "Define, communicate, and realize the vision of goals for technology-driven innovation."
+      },
+      {
+        "cbb": "A2: Scope",
+        "definition": "Define the scope and nature of technology-driven innovation."
+      },
+      {
+        "cbb": "A3: Funding and Resource Allocation",
+        "definition": "Identify sources of funding for technology-driven innovation and allocate resources appropriately based on prioritization."
+      },
+      {
+        "cbb": "A4: Portfolio Management",
+        "definition": "Manage decision-making relating to technology-driven innovation projects through an innovation pipeline or portfolio."
+      },
+      {
+        "cbb": "B1: Management Leadership",
+        "definition": "Provide visible leadership support for technology-driven innovation activities."
+      },
+      {
+        "cbb": "B2: Acceptance of Risk Taking",
+        "definition": "Promote a positive attitude towards informed risk-taking."
+      },
+      {
+        "cbb": "B3: Collaboration",
+        "definition": "Enable employee collaboration on technology-driven innovation – for example, task forces, cross-functional teams, collaboration networks, communities of practice, and so on."
+      },
+      {
+        "cbb": "B4: Innovation Skills Development",
+        "definition": "Develop employees’ skills to enable and leverage technology-driven innovation."
+      },
+      {
+        "cbb": "B5: Roles and Responsibilities",
+        "definition": "Define roles and responsibilities within the organization to empower ownership of technology-driven innovation and promote engagement with innovation practices."
+      },
+      {
+        "cbb": "B6: Rewards and Recognition",
+        "definition": "Incentivize people to contribute to technology-driven innovation."
+      },
+      {
+        "cbb": "C1: Methods and Processes",
+        "definition": "Leverage methodologies and tools (such as idea management tools, innovation prototyping workshops, and project management methodologies) to facilitate an innovation management life cycle – for example, from idea generation and development to implementation and ed-of-life."
+      },
+      {
+        "cbb": "C2: Measures of Impact",
+        "definition": "Measure the impact from technology-driven innovation."
+      },
+      {
+        "cbb": "C3: Communication of Value",
+        "definition": "Communicate the value generated from technology-driven innovation."
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "cbbs": [
+      {
+        "cbb": "A1: Value Orientation",
+        "definition": "Advocate for delivery of the expected business value from IT."
+      },
+      {
+        "cbb": "A2: Business Interaction",
+        "definition": "Build a high-quality and effective partnership between the IT function and other business units. Build an understanding of business requirements and how they can be met or enabled by IT."
+      },
+      {
+        "cbb": "A3: Communication",
+        "definition": "Establish mechnaisms for dialogue with stakeholders such as IT colleagues, other business units, and third parties."
+      },
+      {
+        "cbb": "A4: IT Vision",
+        "definition": "Promote the role of the IT function and its strategic direction."
+      },
+      {
+        "cbb": "A5: Style, Culture, and Collaboration",
+        "definition": "Create a style of IT leadership that is effective in driving progress, winning support from stakeholders, and fostering a culture of credibility, accountability, and teamwork."
+      },
+      {
+        "cbb": "B1: Decision Bodies and Escalation",
+        "definition": "Establish IT governance bodies, defining their composition, scope, and decision rights, stating their role in complying with regulatory obligations, and setting out protocols for escalation between them and their organizational units."
+      },
+      {
+        "cbb": "B2: Decision-Making Processes",
+        "definition": "Implement decision-making processes based on, for example, principles of transparency and accessibility. Document decisions and translate them into action plans."
+      },
+      {
+        "cbb": "B3: Reporting and Oversight",
+        "definition": "Monitor the status of essential IT capabilities and desired outcomes, including key performance indicators (KPIs) and accountabilities."
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "cbbs": [
+      {
+        "cbb": "A1: Internal Structure",
+        "definition": "Define the internal structure of the IT function so that it supports the organization’s strategic direction and culture. The definition includes, for example, reporting lines, roles, responsibilities, accountabilities, and span of control (that is, the number of employees reporting to each manager)."
+      },
+      {
+        "cbb": "A2: Business Interfaces",
+        "definition": "Manage the interfaces between the IT function and other business units."
+      },
+      {
+        "cbb": "A3: Supplier Interfaces",
+        "definition": "Manage the interfaces between the IT function and its suppliers."
+      },
+      {
+        "cbb": "B1: Planning Process",
+        "definition": "Manage the organizational planning process for the IT function and the outcomes of that process, for example by involving stakeholders, and securing commitment to change."
+      },
+      {
+        "cbb": "B2: Documentation and Communication",
+        "definition": "Document the IT function’s organization design (including, for example, an organization chart showing links between units and interfaces), and communicate it to relevant stakeholders."
+      },
+      {
+        "cbb": "B3: Monitoring",
+        "definition": "Monitor the effectiveness of the IT function’s organization design."
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "cbbs": [
+      {
+        "cbb": "A1: Policies for Risk Management",
+        "definition": "Define, implement, review, and make accessible risk management policies. Incorporate compliance requirements into risk management approaches."
+      },
+      {
+        "cbb": "A2: Integration",
+        "definition": "Integrate IT risk management with IT leadership and governance structures, and with overal ERM policies and approaches."
+      },
+      {
+        "cbb": "A3: Risk Management Programme and Performance Management",
+        "definition": "Identify risk management leadership responsibilities and accountability. Define risk management roles, responsibilities, and accountabilities in support of the programme’s principles and guidance. Measure and report on the effectiveness and efficiency of risk management activities."
+      },
+      {
+        "cbb": "A4: Communication and Training",
+        "definition": "Disseminate risk management approaches, policies, and results. Train stakeholders in risk management proactices. Develop a risk management culture and risk management knowledge and skills."
+      },
+      {
+        "cbb": "B1: Definition of Risk Profiles",
+        "definition": "Define the risk profiles by their potential impact on business continuity and performance. Apply risk profiles in risk management activities."
+      },
+      {
+        "cbb": "B2: Risk Coverage",
+        "definition": "Establish the breadth of IT risk categories and asset classes that are addressed by risk management activities."
+      },
+      {
+        "cbb": "C1: Assessment",
+        "definition": "Identify subject matter experts for risk assessments. Run risk assessments to identify, document, and quantify or score risks and their components. Assessments include the evaluation of exposure to risks and measurement fo their potential impact."
+      },
+      {
+        "cbb": "C2: Prioritization",
+        "definition": "Prioritize inherent and residual risks and risk handling strategies, based on the organization’s risk tolerance – that is, what risk levels are acceptable."
+      },
+      {
+        "cbb": "C3: Handling",
+        "definition": "Assign ownership to identified risk, and responsiblility and accountability for developing risk handling strategies. Initiate, implementation of risk handling strategies, where risks can be transferred, absorbed, or mitigated. Interact with incident management functions – see Service Provisioning (SRP)."
+      },
+      {
+        "cbb": "C4: Monitoring",
+        "definition": "Establish a risk register. Track and report risks and risk incidents, and validate the effectiveness of risk controls."
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "cbbs": [
+      {
+        "cbb": "A1: Empirical Model",
+        "definition": "Define and quantify the relationships between IT infrastructure (for example, CPU load or latency) and IT services, business processes, and ultimately, the organization. Populate models with data to act as a basis for all analysis (including historical and projected)."
+      },
+      {
+        "cbb": "A2: Performance Monitoring",
+        "definition": "Measure, record, and track various service performance indicators for IT infrastructure, end-to-end IT services, business processes, and the organization (based on empirical models)."
+      },
+      {
+        "cbb": "A3: Results Analysis",
+        "definition": "Identify the key issues relating to IT infrastructure and how they impact or are impacted by IT services, business processes, and the organization, nased on empirical model outputs."
+      },
+      {
+        "cbb": "B1: Capacity Trend Analysis",
+        "definition": "Size the infrastructure based on current and expected business demand – for example, by examining current performance trends or deducing expected capacity needs from the business strategy."
+      },
+      {
+        "cbb": "B2: Risk Assessment",
+        "definition": "Assess the probability and impact of IT-related risks on organizational activites – for example, quantification of IT-enabled business value-at-risk."
+      },
+      {
+        "cbb": "B3: Investment Scenario Planning",
+        "definition": "Understand existing capacity and identify the need for additional/new IT infrastructure to support growth of business processes."
+      },
+      {
+        "cbb": "C1: Communication Management",
+        "definition": "Establish lines of communication between the IT function and other business units regarding the management of IT infrastructure and services."
+      },
+      {
+        "cbb": "C2: Partnership Management",
+        "definition": "Establish ways of managing and maintaining interactions with business units and stakeholders – these could include informal approaches, such as phone calls, emails, and courtesy visitcs, and formal written, signed agreements reviewed periodically."
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "cbbs": [
+      {
+        "cbb": "A1: Strategy Alignment",
+        "definition": "Aligns IT sourcing options and activities with the IT strategy for organizaitonal impact."
+      },
+      {
+        "cbb": "A2: Objectives and Scoping",
+        "definition": "Specify the sourcing objectives (for example, quality, cost, flexibility, risk, innovation, agility), the scope of IT services, and the criteria used to evaluate and select service providers."
+      },
+      {
+        "cbb": "A3: Sourcing Model Selection",
+        "definition": "Choose appropriate sourcing models(s) to support delivery of IT services (for example, internal or third-party providers, signle or multiple providers)."
+      },
+      {
+        "cbb": "A4: Business Case Creation",
+        "definition": "Create and review business cases for evaluating sourcing options for IT services."
+      },
+      {
+        "cbb": "A5: Organizational Readiness",
+        "definition": "Assess and review the organization’s readiness for sourcing initiatives. Such an assessment might take into account, for example, the extent of process standardization, the adaptability of the organizational structure and culture, the methods and media used for communication, and the policies and practices relating to resourcing and skills transfer and retention."
+      },
+      {
+        "cbb": "A6: Re-evaluation",
+        "definition": "Assess legacy sourcing decisions and consider alternative sourcing options. Consider, for example, changes that have taken place in the business context, new opportunities and risks that have arisen, and costs associated with vendor lock-in or switching."
+      },
+      {
+        "cbb": "B1: Provider Selection",
+        "definition": "Ensure that the approach used for selecting IT service providers adheres to and influences the organization’s procurement procedures."
+      },
+      {
+        "cbb": "B2: Contract Preparation and Closing",
+        "definition": "Develop IT’s own contract negotiation position in advance (for example, by identifying negotiable and non-negotiable items, and considering incentives). Understand the IT service provider’s success criteria to create win-win situations."
+      },
+      {
+        "cbb": "C1: Transition",
+        "definition": "Support the introduction of new IT services or the migration of legacy IT services between the IT service provider and the organization, considering, for example, staffing the project team, identfying and informing affected employees, employee placement, preparing technical interfaces, migrating data, security protocols, defining access rights, and validating availability."
+      },
+      {
+        "cbb": "C2: Provider Integration and Governance",
+        "definition": "Integrate IT service providers into organizational activites with appropriate governance and performance oversight structures."
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "cbbs": [
+      {
+        "cbb": "A1: Resourcing",
+        "definition": "Allocate and coordinate roles, responsibilities, accountabilities, and resources for the IT strategic planning function."
+      },
+      {
+        "cbb": "A2: Related Planning Processes",
+        "definition": "Align and integrate IT strategic planning with relevant IT and business planning processes such as budget and operational planning, resource allocation, business planning, and performance measurements."
+      },
+      {
+        "cbb": "A3: Stakeholder Management and Communication",
+        "definition": "Communicate all aspects of IT strategic planning with stakeholders, including key individuals in the IT function, and business unit heads. Manage stakeholder expectations, engagement, and sponsorship."
+      },
+      {
+        "cbb": "B1: Alignment with Business",
+        "definition": "Mutually align and integrate IT and business strategic plans. Determine the IT strategy’s contribution to business objectives. Influence the formation of the business strategy regarding the use of technology-enabled solutions to overcome business challenges."
+      },
+      {
+        "cbb": "B2: IT Vision and Principles",
+        "definition": "Formulate the long-term scope and objectives for IT value generation (IT vision), and create high-level guidelines for deploying technology-enabled services (IT design principles)."
+      },
+      {
+        "cbb": "B3: Strategic Options",
+        "definition": "Identify challenges and opportunities in the IT function and other business units, where IT can enhance performance. Identify options for action, and evaluate, prioritize, and slect thtese options based on their potential contribution to business value."
+      },
+      {
+        "cbb": "B4: Plan Development",
+        "definition": "Translate the selected strategic options into an approved strategic plan, encompassing high-level IT goals, programmes, timeframes, manpower planning, skills development, and long-range technology planning. Outline programme ownership, business goals, business value/benefits, and an outline business case at the programme level."
+      },
+      {
+        "cbb": "B5: Tracking and Evaluation",
+        "definition": "Assess the extent to which strategic targets are being achieved. Review all relevant programmes using qualitative and quantitative measures (such as satisfaction surveys, programme progress, and KPIs), and generate input for stragy reviews."
+      }
+    ]
+  },
+  {
+    "id": 15,
+    "cbbs": [
+      {
+        "cbb": "A1: Budget Scope",
+        "definition": "Manage the scope and depth of information relating to the categories of expenditure in the IT budget (for example, capital expenses, operations expenses, shadow IT, and so on)."
+      },
+      {
+        "cbb": "A2: Budget Process",
+        "definition": "Develop processes to manage budget planning and expenditure (such as processes to manage stakeholder involvement, processes to align the budget planning with business planning cycles, processes to manage payments, and so on)."
+      },
+      {
+        "cbb": "A3: Budget Alignment",
+        "definition": "Engage stakeholders from the wider business in setting the IT budget to ensure that strategic prioritise are reflected in the IT budgett priorities."
+      },
+      {
+        "cbb": "B1: Budget Monitoring",
+        "definition": "Monitor and report to stakeholders on actual performance against planned expenditure."
+      },
+      {
+        "cbb": "B2: Variance Management",
+        "definition": "Manage deviations of expenditure from the planned budget (by, for example, establishing escalation channels, and taking corrective actions)."
+      },
+      {
+        "cbb": "B3: Predictability",
+        "definition": "Manage IT expenditure within budget targets and variance ranges."
+      },
+      {
+        "cbb": "C1: Budget Governance",
+        "definition": "Establish oversight and decisionrights to set IT budgets and manage allocations."
+      },
+      {
+        "cbb": "C2: Accountability Assignment",
+        "definition": "Establigh accountability for managing the expenditure of IT budgets."
+      }
+    ]
+  },
+  {
+    "id": 16,
+    "cbbs": [
+      {
+        "cbb": "A1: Scope, Granularity, and Sophistication",
+        "definition": "Establish budget tracking and forecasting approaches (for example, single versus multi-year analysis)."
+      },
+      {
+        "cbb": "A2: Tools and Processe",
+        "definition": "Develop tools and processes to generate budget performance analyses."
+      },
+      {
+        "cbb": "A3: Data Consistency",
+        "definition": "Develop the sources of data, and structur the data required to conduct budget performance analyses. Develop a common budget management terminology in the organization to enable wider comparisons to be made."
+      },
+      {
+        "cbb": "B1: Metrics Reporting",
+        "definition": "Develop a suite of metrics to enable reporting on a range of budget performance criteria (for example, over/under expenditure and expenditure run-rates), and the relationships between them."
+      },
+      {
+        "cbb": "B2: Future IT Expenditure",
+        "definition": "Inform decision-making for planning of future IT expenditure."
+      },
+      {
+        "cbb": "B3: Management of Unit Costs",
+        "definition": "Inform decisio-making regarding unit cost adjustments – for example, those relating to pricing and consumption."
+      },
+      {
+        "cbb": "C1: Awareness and Communication",
+        "definition": "Communicate IT budget management practices and methods, and details of their business impact to stakeholders."
+      }
+    ]
+  },
+  {
+    "id": 17,
+    "cbbs": [
+      {
+        "cbb": "A1: Funding Sources",
+        "definition": "Establish sources of IT financing, which may include a centrally allocated IT budget, allocations for other business units, and external sources (for example, joint ventures, industry consortia, vendors, suppliers, clients, and so on). Understand the costs of financing and the expected benefits to be derived from each funding source."
+      },
+      {
+        "cbb": "A2: Funding Levels",
+        "definition": "Set the overall level of IT funding for the organization based on, for example, strategic priorities and competitive benchmarks."
+      },
+      {
+        "cbb": "A3: Allocation",
+        "definition": "Allocate funding to broad categories of IT activity (for example, infrastructure/product improvements, capability development) to align with objectives and derive business value."
+      },
+      {
+        "cbb": "A4: Performance Measurement",
+        "definition": "Use metrics to track, evaluate, and improve funding-related outcomes – for example, cost of funds, spend by category/initiative/business unit, return on investment (ROI), return on assets (ROA), and so on. Link funding to the benefits derived to determine the impact of funding."
+      },
+      {
+        "cbb": "B1: Governance Model and Alignement",
+        "definition": "Define guidelines and decision rights for funding governing bodies and promote decision-making alignment with organization-wide decision-making cycles."
+      },
+      {
+        "cbb": "B2: Communication",
+        "definition": "Discuss funding and financing decisions with stakeholders."
+      }
+    ]
+  },
+  {
+    "id": 18,
+    "cbbs": [
+      {
+        "cbb": "A1: Prioritization Framework",
+        "definition": "Use an evaluation framewrok and a set of criteria to select and prioritize programmes and projects for the portfolio."
+      },
+      {
+        "cbb": "A2: Authority",
+        "definition": "Involve key personnel in decisions regarding the selection and prioritization of programmes and projects. Approve and terminate the selected programmes and projects as required."
+      },
+      {
+        "cbb": "B1: Assessment and Prioritization",
+        "definition": "Assess programmes and projects against explicit criteria, such as alignment with strategic vision, business objectives, operational needs, desired portfolio mix and scope, and resource availability. Prioritize programmes and projects based on the assessment results."
+      },
+      {
+        "cbb": "B2: Planning",
+        "definition": "Develop a high-level plan for aligning the portfolio with the organization’s strategy. Acquire information on financial, people, and technical resources to plan their allocation to the portfolio."
+      }
+    ]
+  },
+  {
+    "id": 19,
+    "cbbs": [
+      {
+        "cbb": "A1: Framework",
+        "definition": "Determine the capability framework(s) to be used for assessment. Define an integration and mapping approach in cases where a number of frameworks are used simultaniously."
+      },
+      {
+        "cbb": "A2: Commitment",
+        "definition": "Promote management sponsorship and stakeholder commitment. Provide the required resources for capability assessments."
+      },
+      {
+        "cbb": "A3: Culture",
+        "definition": "Promote organizational buy-in to targets by, for example, highlighting the reasons for change and identifying the owners of improvement initiatives."
+      },
+      {
+        "cbb": "B1: Assessment Planning",
+        "definition": "Plan and prepare the approach for conducting capability assessments – examine the organization’s needs and business goals, establish assessment objectives, and agree assessment scope, team members, participants, and logistics.Conduct the assessment, including such activities as running awareness campaigns, employing assessment tools, conducting evaluation interviews, and gathering information about existing practices in the organization."
+      },
+      {
+        "cbb": "B2: Assessment Execution",
+        "definition": "Analyse the assessment results, and determine strengths and areas for improvement."
+      },
+      {
+        "cbb": "B3: Evaluation",
+        "definition": "Identify IT capability areas in need of improvement. Develop plans to close the gap between the current state and the target. Obtain support for implementing improvement inititatives."
+      },
+      {
+        "cbb": "B4: Target-Setting and Development Roadmap",
+        "definition": "Communicate with stakeholders about assessment results, targets, gaps, and roadmap progress."
+      }
+    ]
+  },
+  {
+    "id": 20,
+    "cbbs": [
+      {
+        "cbb": "A1: Architecture Framework",
+        "definition": "Provide the overarching framework for standards, templates, and specifications for organizing and presenting a description of the business and technical architectures."
+      },
+      {
+        "cbb": "A2: Architecture Processes",
+        "definition": "Provide the methodology to define, develop, and maintain the architecture components, and their interrelationships."
+      },
+      {
+        "cbb": "A3: Architecture Governance",
+        "definition": "Determine the principles, decision rights, rules, and methods that are used to give direction to and monitor the development of enterprise architecture and its alignment with wider organizational governance."
+      },
+      {
+        "cbb": "A4: Architecture Value",
+        "definition": "Define, measure, and communicate the business value of enterprise architecture."
+      },
+      {
+        "cbb": "B1: Architecture Funding",
+        "definition": "Develop approaches to funding enterprise architecture management and architecture improvement initiatives."
+      },
+      {
+        "cbb": "B2: Architecture Planning",
+        "definition": "Define the enterprise architecture vision and the implementation roadmap and anticipate business needs and trends."
+      },
+      {
+        "cbb": "B3: Architecture Alignment",
+        "definition": "Use architecture principles and blueprints to align business needs and IT capabilities. Define the strategy guidelines for selecting IT investments."
+      },
+      {
+        "cbb": "C1: Organization Structure and Skills",
+        "definition": "Define the roles, responsibilities, and skills required for enterprise architecture management."
+      },
+      {
+        "cbb": "C2: Communication and Stakeholder Management",
+        "definition": "Manage communication with stakeholders who are interested in, or are influenced by, enterprise architecture management, and manage their expectations of what it can deliver."
+      }
+    ]
+  },
+  {
+    "id": 21,
+    "cbbs": [
+      {
+        "cbb": "A1: Information Security Strategy",
+        "definition": "Develop, communicate, and support the organization’s information security objectives."
+      },
+      {
+        "cbb": "A2: Security Policies and Controls",
+        "definition": "Establish and maintain security policies and controls, taking into account relevant security standards, regulatory and legislative security requirements, and the organization’s security objectives."
+      },
+      {
+        "cbb": "A3: Security Roles, Responsibilities, and Accountabilities",
+        "definition": "Establish responsibilities and accountabilities for information security roles, and check enforcement."
+      },
+      {
+        "cbb": "A4: Communication and Training",
+        "definition": "Disseminate security approaches, policies, and other relevant information to develop security awareness and skills."
+      },
+      {
+        "cbb": "A5: Security Performance Reporting",
+        "definition": "Report on the effectiveness and efficiency of information security policies and activities, and the level of compliance with them."
+      },
+      {
+        "cbb": "A6: Supplier Security",
+        "definition": "Define security requirements pertaining to the procurement and supply of hardware, software, services, and data."
+      },
+      {
+        "cbb": "B1: Security Architecture",
+        "definition": "Build security criteria into the design of IT solutions – for example, by defining coding protocols, depth of defence, configuration of security features, and so on."
+      },
+      {
+        "cbb": "B2: IT Component Security",
+        "definition": "Implement measures to protect all IT components, both physical and virtual, such as client computing devices, servers, networks, storage devices, printers, and smart phones."
+      },
+      {
+        "cbb": "B3: Physical Infrastructure Security",
+        "definition": "Establish and maintain measures to safeguard the IT physical infrastructure from harm. Threats to be addressed include extremes of temperature, laicious intent, and utility supply disruptions."
+      },
+      {
+        "cbb": "C1: Security Threat Profiling",
+        "definition": "Gather intelligence on IT security threats and vulnerabilities to better understand the IT security threat landscape within which the organization operates -including, for example, the actors, scenarios, and campaigns that might pose a threat."
+      },
+      {
+        "cbb": "C2: Security Risk Assessment",
+        "definition": "Identify exposures to security-related risks, and quantify their likelihood and potential impact."
+      },
+      {
+        "cbb": "C3: Security Risk Prioritization",
+        "definition": "Prioritize information security risks and risk handling strategies based on residual risks and the organization’s risk appetite."
+      },
+      {
+        "cbb": "C4: Security Risk Handling",
+        "definition": "Implement strategies for handling information security risk, including risk acceptance, transfer, absorption, and mitigation, as appropriate. Promote interaction with incident management functions."
+      },
+      {
+        "cbb": "C5: Security Risk Monitoring",
+        "definition": "Manage the on-going efficacy of information security risk handling strategies and control options."
+      },
+      {
+        "cbb": "D1: Deata Identification and Classification",
+        "definition": "Define information security classes, and provide guidance on protection and access control appropriate to each class."
+      },
+      {
+        "cbb": "D2: Access Rights Management",
+        "definition": "Manage user access rights to information throughout its life cycle, including granting, denying, and revoking access privileges."
+      },
+      {
+        "cbb": "D3: Data Life Cycle Management",
+        "definition": "Provide the security expertise and guidance to ensure that data throughout its life cycle is appropriately available, adequately preserved, and/or  destroyed to meet business, regulatory, and/or other security requirements."
+      },
+      {
+        "cbb": "E1: Business Continuity Management",
+        "definition": "Provide stakeholders throughout the organization with security advice to assist in the analysis of incidents and to ensure that data is secure before, during, and after the execution of the business continuity plan."
+      },
+      {
+        "cbb": "E2: Incident Management",
+        "definition": "Manage security-related incidents and near incidents. Develop and train incident response teams to identify and limit exposure, manage communications, and coordinate with regulatory bodies as appropriate."
+      }
+    ]
+  },
+  {
+    "id": 22,
+    "cbbs": [
+      {
+        "cbb": "A1: Strategy for Knowledge Asset Management",
+        "definition": "Develop and communicate knolwedge asset management goals and objectives. Develop high-level action plans to implement the strategy."
+      },
+      {
+        "cbb": "A2: Roles and Skills",
+        "definition": "Determine accountability for knowledge asset management activities, along with requisite employee skills and obligations."
+      },
+      {
+        "cbb": "A3: Value Impact Measurement",
+        "definition": "Identify and measure the impact of knowledge asset management activities in the organization. Examples include the numbers of new products or services delivered based on knowledge management activites, improvements in existing products or services, ability to identify knowledge activites that support improved decision-making, and so on."
+      },
+      {
+        "cbb": "B1: Knowledge Culture",
+        "definition": "Incentivize a culture in which employees communicate, coordinate, work together, and engage in the creation, use, and sharing of knowledge assets. For example, motivate employees by rewarding innovation and expertise in knowledge asset management activities."
+      },
+      {
+        "cbb": "B2: Enabling Methods",
+        "definition": "Provide enabling methods (such as tools and techniques) to support the creation, capture, access, and sharing of knowledge assets."
+      },
+      {
+        "cbb": "B3: Knowledge Asset Repository",
+        "definition": "Design, develop, and adopt a knowledge asset repository (including a defined structure and a method for content representation) to facilitate access to knowledge assets. Record and communicate the location of available knowledge assets."
+      },
+      {
+        "cbb": "B4: Knowledge Domain Experts Register",
+        "definition": "Capture information about knowledge domain experts to make their areas of expertise and experience discoverable."
+      },
+      {
+        "cbb": "C1: Identification and Capture",
+        "definition": "Manage the identification and collection of knowledge assets."
+      },
+      {
+        "cbb": "C2: Profiling and Classification",
+        "definition": "Manage profiling and classification schemes for knowledge assets and the relationships between them."
+      },
+      {
+        "cbb": "C3: Knowledge Storage Management",
+        "definition": "Manage policies and procedures for stroage media maintenance."
+      },
+      {
+        "cbb": "C4: Knowledge Usage Analytics",
+        "definition": "Analyse the use of knowledge assets by, for example, user, search terms, and/or knowledge asset category, to improve knowledge asset management activities."
+      }
+    ]
+  },
+  {
+    "id": 23,
+    "cbbs": [
+      {
+        "cbb": "A1: IT Workforce Strategy",
+        "definition": "Define an IT workforce strategy, outlining long-term needs regarding, for example, the quantity, skill level, and geographic location of employees. Communicate strategic decisions to the workforce."
+      },
+      {
+        "cbb": "A2: HR Policies",
+        "definition": "Draw up and implement HR policies for IT employees, covering topics such as health and safety, annual leave, code of conduct, discipline procedures, workplace diversity, performance evaluation, compensation, hiring, terms and conditions of employement, and so on."
+      },
+      {
+        "cbb": "A3: Job Families and Development Models",
+        "definition": "Define IT-specific job families and the corresponding skill requirements. Establish IT-specific career development models that outline the career paths open to IT employees."
+      },
+      {
+        "cbb": "A4: Compensation",
+        "definition": "Establish a compensation, benefits, and incentive system based on job families and the performance evaluation system."
+      },
+      {
+        "cbb": "A5: Culture and Satisfaction",
+        "definition": "Define and manage the culture of the IT function. Monitor and manage employee job satisfaction, including employee motivation."
+      },
+      {
+        "cbb": "B1: Recruitment",
+        "definition": "Manage the recruitment of IT employees."
+      },
+      {
+        "cbb": "B2: Deployment",
+        "definition": "Manage IT employee deployment into specific roles."
+      },
+      {
+        "cbb": "B3: Performance Evaluation",
+        "definition": "Define and manage the performance evaluation approach."
+      },
+      {
+        "cbb": "B4: Development",
+        "definition": "Manage training and education programmes, developmental job assignments, mentoring, and coaching."
+      },
+      {
+        "cbb": "B5: Promotion",
+        "definition": "Define and manage the way in which employees are promoted."
+      },
+      {
+        "cbb": "B6: Succession Planning",
+        "definition": "Define and implement a succession plan to identify and develop employees capable of filling key organizational positions and maintain continuity. Manage knowledge transfer to support succession planning and prevent knowledge loss in the event of employees leaving."
+      },
+      {
+        "cbb": "B7: Turnover Management",
+        "definition": "Manage employee exits and post-employment relations."
+      }
+    ]
+  },
+  {
+    "id": 24,
+    "cbbs": [
+      {
+        "cbb": "A1: Governance Structures",
+        "definition": "Establish a governance framework or approach to support programme/project management decision-making and involvement of stakeholders. Define associated reporting lines, and roles, responsibilities, and accountabilities."
+      },
+      {
+        "cbb": "A2: Processes and Methods",
+        "definition": "Adopt approapriate methodologies to guide the management of the full programme/projects life cycle – that is, initiate, plan, execute, monitor, control, and close."
+      },
+      {
+        "cbb": "A3: Tools and Techniques",
+        "definition": "Apply tools and techniques to manage individual programme/project activities – for example, risks and issue management, schedule management, budget management, document sharing and collaboration, root cause analysis, and calculating earned value."
+      },
+      {
+        "cbb": "A4: Competences",
+        "definition": "Define the skills required for various progamme and project roles. Develio a training curriculum to support skills development – for example, skills in relation to leadership, stakeholder management, programme and project management approaches, and technologies."
+      },
+      {
+        "cbb": "B1: Performance Management",
+        "definition": "Define, track, and report on the performance of programmes and projects and on how they are managed."
+      },
+      {
+        "cbb": "B2: Risk Management",
+        "definition": "Establish an approach to manage programme and project risks, and to monitor their impact on performance."
+      },
+      {
+        "cbb": "B3: Change Management",
+        "definition": "Establish an approach to manage changes within programmes and projects, and monitor their impact on performance."
+      },
+      {
+        "cbb": "B4: Post-programme and Post-project Learning",
+        "definition": "Manage lessons learned to improve the execution of future programmes and projects."
+      }
+    ]
+  },
+  {
+    "id": 25,
+    "cbbs": [
+      {
+        "cbb": "A1: Relationship Profiles",
+        "definition": "Understand the formal and informal networks in the organization and how these can provide insight into relationship characteristics, behaviours, and information flows. This includes an understanding of the organization’s structures and cultures, its strategic goals, the business models it used, and the degree of operational autonomoy that individual business units have."
+      },
+      {
+        "cbb": "A2: Relationship Management Methodology",
+        "definition": "Define goals, objectives, and targets for the relationship management function/role. Design the relationship management approach to be taken"
+      },
+      {
+        "cbb": "A3: Capturing Business Awareness",
+        "definition": "this includes details of roles and responsibilities, governance policies, processes, and tools, and also any required support mechnaisms such as skills development."
+      },
+      {
+        "cbb": "A4: Communication Programme",
+        "definition": "Design information collation principles so that the IT function can recognize and comprehend relevant changes as they occur in the rest of the business – for example, this could include new business plans or project reports. Identify and develop tools and approaches to support this feedback loop."
+      },
+      {
+        "cbb": "B1: Advocate IT",
+        "definition": "Design the communication programme to be used to keep stakeholders informed of IT developments, future plans, and other issues – for example, through the use of annual IT reports, IT strategy forums, and IT briefing papers. The frequency of communication is likely to vary depending on issues such as the target audience and meesage criticality."
+      },
+      {
+        "cbb": "B2: Advocate Business",
+        "definition": "Advocate for IT by disseminating information to assist stakeholders (primarily outside the IT function) to understand the role IT currently plays and potnetially could play in supporting the organization – for example, demonstrating the value of IT activities and promoting the identification of new opportunities."
+      },
+      {
+        "cbb": "B3: Relationship Prioritization",
+        "definition": "Collate information to assist stakeholders (primaryily inside the IT function) to understand where technology can best contribute to enabling business value and supporting the organization."
+      },
+      {
+        "cbb": "B4: Awareness and Responsiveness to Business Intelligence",
+        "definition": "Prioritize relationships with stakeholders and business units (for example, depending on previous, current, and upcoming business initiatives) to minimize negative impacts of competing priorities."
+      },
+      {
+        "cbb": "",
+        "definition": "Maintain awareness of what is happening within relationships to track and act on business intelligence. Route business intelligence (for example, that relating to emerging risks, opportunities, and exceptions) to the attention of appropriate individuals/forums to enable suitable responses."
+      }
+    ]
+  },
+  {
+    "id": 26,
+    "cbbs": [
+      {
+        "cbb": "A1: Business Alignement",
+        "definition": "Align new technology research projects/activities with organizational goals."
+      },
+      {
+        "cbb": "A2: Intelligence Gathering",
+        "definition": "Identify and categorize information on new technologies and the potential they offer – for example, through competitive analysis, industry networking, and technology, and technology scanning activities."
+      },
+      {
+        "cbb": "B1: Governance",
+        "definition": "Have management and governance approaches in place to align new technology research activites."
+      },
+      {
+        "cbb": "B2: Up-front Analysis",
+        "definition": "Assess possible new technology research proposals in the ligh of customer needs, market analysis, financial analysis, and alignment with technical strategy"
+      },
+      {
+        "cbb": "B3: Phased Delivery",
+        "definition": "and produce a clear product or solution definition that reduces the risk of spending on innappropriate research projects."
+      },
+      {
+        "cbb": "C1: Culture",
+        "definition": "Move approved new technology research projects to conclusion through defined project phases such as initial research, prototyping, proof-of-concept testing, and so on."
+      },
+      {
+        "cbb": "C2: Resource and Portfolio",
+        "definition": "Promote a management culture within which research into new technology is incentivized and can thrive."
+      },
+      {
+        "cbb": "C3: RDE Impact Measurement",
+        "definition": "Balance the new technology research portfolio in terms of opportunity, resources, risk, and focus areas to best serve the organization."
+      },
+      {
+        "cbb": "",
+        "definition": "Develop methods, tools, and other artefacts to define and apply metrics that can be used to monitor and evaluate the impact and performance of new technology research projects."
+      }
+    ]
+  },
+  {
+    "id": 27,
+    "cbbs": [
+      {
+        "cbb": "A1: Service Definition",
+        "definition": "Identify and discribe each IT service offering and its components – these include Service Level Agreements (SLAs), Operational Level Agreements (OLAs), and Underpinning Contracts (UPCs)."
+      },
+      {
+        "cbb": "A2: Service Architecture",
+        "definition": "Define the service architecture and all its component parts, their interrelationships, and the operational processes through which they interface with surrounding processes, supporting activites, and business ecosystem partners."
+      },
+      {
+        "cbb": "A3: IT Service Life Cycle Management",
+        "definition": "Manage the life cycle flow of each IT service from its introduction through deployment to eventual decommissioning."
+      },
+      {
+        "cbb": "B1: Customer-Facing Services Operation",
+        "definition": "Manage customer access to IT assistance – for example, IT helpdesk support, requests for IT services, and IT service performance reporting."
+      },
+      {
+        "cbb": "B2: Internal Service Operation",
+        "definition": "Manage all non-customer-facing activities relating to IT service operation – for example service request fulfilment, incident/problem management, and service level management."
+      }
+    ]
+  },
+  {
+    "id": 28,
+    "cbbs": [
+      {
+        "cbb": "A1: Requirements",
+        "definition": "Manage requirements and their traceability throughout the IT solutions delivery life cycle to serve business needs."
+      },
+      {
+        "cbb": "A2: Design Conceptualization",
+        "definition": "Apply architecture principles and guidelines to inform the design of IT solutions to meet requirements."
+      },
+      {
+        "cbb": "B1: Fabricate",
+        "definition": "Construct IT solutions based on design principles and standards – for example, multi-tier architecture, coding, and security."
+      },
+      {
+        "cbb": "B2: Test",
+        "definition": "Conduct validation testing to ensure that IT solutions meet specified requirements. This can include unit, integration, system, user acceptance, and regression testing."
+      },
+      {
+        "cbb": "C1: Release Management",
+        "definition": "Manage the deployment of IT solutions into the operational environment."
+      },
+      {
+        "cbb": "C2: Version Control",
+        "definition": "Manage the control of versions that occur during the solution’s delivery life cycle using appropriate methods – for example, methods for initiating, defining, evaluating, and approving/disapproving proposed changes."
+      },
+      {
+        "cbb": "D1: Methods and Practices",
+        "definition": "Ensure the availability and use of IT solutions delivery methods and practices – for example, requirements management, configuration management, and release management."
+      },
+      {
+        "cbb": "D2: Practice Evolution",
+        "definition": "Evolve IT solutions delivery approaches and methodologies in response to business needs and in line with industry practices."
+      }
+    ]
+  },
+  {
+    "id": 29,
+    "cbbs": [
+      {
+        "cbb": "A1: Supplier Engagement",
+        "definition": "Define and manage the supplier engagement model to be adopted with suppliers."
+      },
+      {
+        "cbb": "A2: Supplier Communications",
+        "definition": "Plan, manage, and execute the exchange of information that may be useful to both the organization and the supplier."
+      },
+      {
+        "cbb": "B1: Order and Fulfilment Management",
+        "definition": "Manage interactions with suppliers so as to facilitate procurement and service delivery."
+      },
+      {
+        "cbb": "B2: Contract Compliance",
+        "definition": "Manage the obligations and responsibilities of both parties (as specified in the contract) to avoid or address incidents of non-compliance."
+      },
+      {
+        "cbb": "B3: Supplier Development",
+        "definition": "Work with suppliers to identify opportunities for mutially beneficial development, such as by adapting processes and products.services, inproving performance levels, co-investing in research and development, joint marketing activites, or temporarily exchanging or transferring staff."
+      },
+      {
+        "cbb": "C1: Continuity of Supply",
+        "definition": "Manage risks associated with the continuity of supply from external sources."
+      },
+      {
+        "cbb": "C2: Performance Measurement and Monitoring",
+        "definition": "Manage key performance indicators (KPIs) to inform decison-making in relation to supplier management."
+      }
+    ]
+  },
+  {
+    "id": 30,
+    "cbbs": [
+      {
+        "cbb": "A1: IT Operations Management",
+        "definition": "Manage IT infrastructure activites in support of business activities – for example, the processing, storage, and transmission of data."
+      },
+      {
+        "cbb": "A2: Infrastructure Integration",
+        "definition": "Develop skills, policies, and approaches to enable the infrastructure to work cohesively as a whole."
+      },
+      {
+        "cbb": "A3: Incident and Problem Management",
+        "definition": "Implement workarounds, repairs, and root cause analysis (where needed), facilitated by appropriate diagnostic practices."
+      },
+      {
+        "cbb": "A4: Infrastructure Performance Management",
+        "definition": "Manage infrastructure performance in support of service levels agreements (SLAs) – for example, in relation to availability and response time."
+      },
+      {
+        "cbb": "A5: Asset Management",
+        "definition": "Manage the deployement and utilization of IT infrastructure assets, including software licenses, network, physical devices, and virtual devices. Redeploy, retire, and acquire assrts as needed."
+      },
+      {
+        "cbb": "A6: Infrastructure Change Management",
+        "definition": "Imanage major technology infrastructure changes – for example, the transition to cloud, major hardware refreshes, firmware upgrading, introduction of a bring-your-own-device policy, and so on."
+      },
+      {
+        "cbb": "A7: Data Centre Environment",
+        "definition": "Manage all aspects of the data centre environment, including power efficiency and availability, network, cooling, fire-suppression, physical access controls, and security."
+      },
+      {
+        "cbb": "A8: Business Continuity Planning",
+        "definition": "Manage IT infrastructure to support business continuity planning."
+      },
+      {
+        "cbb": "A9: Configuration Management",
+        "definition": "Implement overarching policies, approaches, and tools for joined-up configuration management across the IT infrastrucutre – including, for example, allocation of CPU, memory, and storage to a virtual server, configuration of the laptop build image for a group of end customers, and so on."
+      },
+      {
+        "cbb": "B1: Support Infrastructure",
+        "definition": "Develop overarching approaches and policies for the life cycle management of decentralized infrastructure equipment."
+      },
+      {
+        "cbb": "B2: User, Mobile, and Personal Devices",
+        "definition": "Implement approaches and policies for the life cycle management of mobile and personal devices."
+      },
+      {
+        "cbb": "B3: Peripherals",
+        "definition": "Implement approaches and policies for the life cycle management of peripherals and consumables – including, for example, printers, scanners, monitors, and other devices."
+      },
+      {
+        "cbb": "B4: Endpoint Devices",
+        "definition": "Implement approaches and policies for the life cycle management of endpoint devices – including, for example, thin clients, POS terminals, and so on."
+      },
+      {
+        "cbb": "C1: Wide Area Networks (WAN)",
+        "definition": "Develop and implement policies and procedures for the life cycle management of in-house and vendor services and the associated equipment  - including for example routers, firewalls, and so on."
+      },
+      {
+        "cbb": "C2: Local Area Networks (LAN)",
+        "definition": "Develop and implement approaches and policies for the life cycle management of local area networks, including Wi-Fi."
+      },
+      {
+        "cbb": "C3: Voice, Video, and Convergent Services",
+        "definition": "Develop and implement approaches and policies for the life cycle management of voice, video, and other services where technology convergence is a factor."
+      },
+      {
+        "cbb": "D1: High Performance, Server, and General Purpose Computing",
+        "definition": "Develop and implement approaches and policies for the life cycle management of processing infrastructure."
+      },
+      {
+        "cbb": "D2: Storage",
+        "definition": "Develop and implement approaches and policies for the life cycle management of storage – including, for example, computer memory, disk drives, solid state disks, and so on."
+      },
+      {
+        "cbb": "D3: Mainframe Computing",
+        "definition": "Develop and implement approaches and policies for the life cycle management of mainframe computers."
+      },
+      {
+        "cbb": "D4: Infrastructure Related Software",
+        "definition": "Develop and implement approaches and policies for life cycle management of infrastructure-related software – for example, application integration and middleware software, information management software, storage management software, and IT operations management and security software."
+      }
+    ]
+  },
+  {
+    "id": 31,
+    "cbbs": [
+      {
+        "cbb": "A1: Researching User Experiences",
+        "definition": "Assess user behaviours, needs, and motivations – for example, through surveys, focus groups, individual interviews, direct observation, and usability testing."
+      },
+      {
+        "cbb": "A2: Communicating User Experiences",
+        "definition": "Convey user behviours, needs, and motivations to stakeholders to enable informed action – for example, by using personas, user scenarios, storyboarding, use cases, and storytelling."
+      },
+      {
+        "cbb": "B1: Designing User Experiences",
+        "definition": "Conceptualize design options for enhancing the user experience of IT services and solutions – using abstraction methods such as drawings, sketches, blueprints, wireframes, prototypes, papers, and formulas."
+      },
+      {
+        "cbb": "B2: Evaluating User Experiences",
+        "definition": "Apply evaluation methods and criteria to assess user experience of IT services and solutions, and to assess design options relating to them. Evaluation methods might include, for example, surveys, interviews, focus groups, walkthroughts, productivity studies, and usability tests. Evaluation criteria might include, for example, system performance, task success rate, time on task, error rate, and satisfaction ratings."
+      },
+      {
+        "cbb": "B3: Informing User Experience Design",
+        "definition": "Make available and implement feedback to improve the user expereience of design options and IT services and solutions."
+      }
+    ]
+  },
+  {
+    "id": 32,
+    "cbbs": [
+      {
+        "cbb": "A1: Training Resources",
+        "definition": "Identify resources, including people, processes, and systems that are necessary to meet current and future taining requirements."
+      },
+      {
+        "cbb": "A2: Delivery Methods",
+        "definition": "Identify and employ the training delivery methods that are most likely to achieve the desired levels of user proficiency (for example, face-to-face learning, web-based learning, self-paced learning)."
+      },
+      {
+        "cbb": "A3: Training Material Development",
+        "definition": "Adapt a methodology for developing training content that will meet the requirements of the user and fit the training delivery methods."
+      },
+      {
+        "cbb": "B1: Impact of Training on User Proficiency and Productivity",
+        "definition": "Evaluate the impact of training on user proficiency and productivity levels."
+      }
+    ]
+  },
+  {
+    "id": 33,
+    "cbbs": [
+      {
+        "cbb": "A1: Value Culture",
+        "definition": "Create a shared understanding of what constitutes business value for the organization, and a culture focused on creating and sustaining that value."
+      },
+      {
+        "cbb": "A2: Common Purpose",
+        "definition": "Createa shared understanding and acceptance of how IT-enabled change programmes contribute to the realization of business value in support of the organization’s mission and vision."
+      },
+      {
+        "cbb": "B1: Life Cycle Governance",
+        "definition": "Establish governance structures (evaluation, direction, and monitoring) for benefits management throughout the life cycle, from decision-making on the initial concept through to the eventual retirement of assets."
+      },
+      {
+        "cbb": "B2: Business Case Objective",
+        "definition": "Use the business case as an aid to management decision-making throughout the investment life-cycle."
+      },
+      {
+        "cbb": "B3: Responsibility and Accountability",
+        "definition": "Assign individuals who will work to achieve the benfits (responsibility), and assign individuals who will ultimately be answerable for the delivery of benefits (accountability)."
+      },
+      {
+        "cbb": "B4: Relevant Metrics",
+        "definition": "Define and apply metrics that facilitate management oversight of the benefits throughout the investment life cycle."
+      },
+      {
+        "cbb": "C1: Benefits Planning",
+        "definition": "Identify, map, and communicate the interdependent outcomes that may affect the business benefits arising from IT-enabled change."
+      },
+      {
+        "cbb": "C2: Benefits Enablement",
+        "definition": "Determine the wider organizational change necessary to realize the intended benefits from IT-enabled change."
+      },
+      {
+        "cbb": "C3: Benefits Review and Harvesting",
+        "definition": "Establish oversight mechanisms to ensure that the forecasted benefits are delivered, and that the organizationavails of any unexpected benefits that arise."
+      },
+      {
+        "cbb": "D1: Behavioural Change",
+        "definition": "Recognize, accomplish, and sustain the behavioural changes needed to achieve business benefits."
+      },
+      {
+        "cbb": "D2: Stakeholder Engagement",
+        "definition": "Identify and engage relevant stakeholders to achieve the changes necessary for benefits realization."
+      },
+      {
+        "cbb": "D3: Communication",
+        "definition": "Communicate the messages needed and elicit and respond to feedback in order to secure commitment to the benefits realization effort."
+      },
+      {
+        "cbb": "E1: Practice Evolution, Innovation, and Sharing",
+        "definition": "Encourage the adoption and development of benefits management practices."
+      }
+    ]
+  },
+  {
+    "id": 34,
+    "cbbs": [
+      {
+        "cbb": "A1: Progress Monitoring",
+        "definition": "Monitor and track the progression of programmes within the portfolio."
+      },
+      {
+        "cbb": "A2: Resource Monitoring",
+        "definition": "Monitor the utilization of financial, technical, and people resources against planned allocations for programmes witin the portfolio."
+      },
+      {
+        "cbb": "B1: Impact Modelling and Scenario Analysis",
+        "definition": "Conduct ‘what if’ analysis to determine the impace potential scenarios might have on the portfolio’s collective resources, schedules, and business value. Monitor corrective actions taken within the portfolio."
+      },
+      {
+        "cbb": "B2: Status Reporting",
+        "definition": "Report on the current portfolio status, including significant progress deviations, emergent risks, and business value threats."
+      }
+    ]
+  },
+  {
+    "id": 35,
+    "cbbs": [
+      {
+        "cbb": "A1: Cost Coverage",
+        "definition": "Identify cost drivers throughout the life cycle of the asset or IT-enabled business service, to include direct and indirect costs involved in acquisition, operation, enhancements, and end of life."
+      },
+      {
+        "cbb": "A2: Tracking Methods",
+        "definition": "Establish methods to track total cost of ownership, and integrate them into the financial accounting systems of the organization."
+      },
+      {
+        "cbb": "A3: Data Reliability",
+        "definition": "Create reliable total cost of ownership analysis for IT assets and IT-enabled business services."
+      },
+      {
+        "cbb": "B1: Adoption",
+        "definition": "Promote organizational uptake of total cost of ownership models, tools, and methods."
+      },
+      {
+        "cbb": "B2: Impact on Decision-Making",
+        "definition": "Use total cost of ownership data to inform business decisions, such as decisions to invest in, retire or replace systems, and also decisions relating to budget planning, and evaluation of competing options and business cases."
+      },
+      {
+        "cbb": "C1: Communication",
+        "definition": "Communicate total cost of ownership activites and outcomes with key stakeholders."
+      },
+      {
+        "cbb": "C2: Inclusion",
+        "definition": "Involve stakeholders in relevant total cost of ownership calculation decisions to support the financial management of IT."
+      }
+    ]
+  }
+]
